@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<h1>{{ page.title}}</h1>
+<h1 style="max-width:50vw; line-height: 1.1;">{{ page.title}}</h1>
 <p class="subtitle">{{ page.date | date: "%B %-d, %Y" }}</p>
 
-{{ content }}
+<div class="post">
+    {{ content }}
+</div>
 
