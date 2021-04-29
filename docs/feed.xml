@@ -3,10 +3,10 @@
   <channel>
     <title>Tufte-Jekyll</title>
     <description>A Jekyll theme for content-rich sites</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Apr 2021 00:57:55 -0400</pubDate>
-    <lastBuildDate>Thu, 29 Apr 2021 00:57:55 -0400</lastBuildDate>
+    <link>/kathmandu-interim-report/</link>
+    <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 29 Apr 2021 01:00:49 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Apr 2021 01:00:49 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -16,16 +16,16 @@
 &lt;h3 id=&quot;still-looking-for-jobs&quot;&gt;STILL LOOKING FOR JOBS&lt;/h3&gt;
 &lt;p&gt;Around 90% of our respndents reported losing their job at least once during the pandemic. While a very small proportion of these workers have been successful in gaining employment, a sizable majority are still without jobs and currently looking for economic opportunities.&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/LostJobsSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: The group &amp;#8220;working now&amp;#8221; &lt;strong&gt;also includes&lt;/strong&gt; those who are presently working in sectors other than tourism, but are interested in re-entering the tourism sector.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LostJobsSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: The group &amp;#8220;working now&amp;#8221; &lt;strong&gt;also includes&lt;/strong&gt; those who are presently working in sectors other than tourism, but are interested in re-entering the tourism sector.&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;pay-cuts-the-new-normal&quot;&gt;PAY CUTS: THE New NORMAL?&lt;/h3&gt;
 &lt;p&gt;Even with those lucky few people who have managed to hold on to their jobs (10%, see chart below) throughout the pandemic, living with a pay cut has become a harsh reality.&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/StayedEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;It is worth mentioning at this point that most of our respondents work as trekking and/or mountain guides. This should explain why most were not able to hold on to their jobs, as most guides are hired by tourists. See &lt;a&gt;survey demographics&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/StayedEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;It is worth mentioning at this point that most of our respondents work as trekking and/or mountain guides. This should explain why most were not able to hold on to their jobs, as most guides are hired by tourists. See &lt;a&gt;survey demographics&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Around 91% of our respondents reported that earnings haven’t gotten back to pre-covid levels. To make matters worse, 80% of our respondents reported not seeing their earnings return to pre-covid levels for more than a year now (see graph below).&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/LastDateFullSalaryDist2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LastDateFullSalaryDist2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;It appears the situation is going to get even more difficult with the second wave approaching.&lt;/p&gt;
 
@@ -36,27 +36,27 @@
 &lt;h4 id=&quot;savings-reduced-to-near-zero&quot;&gt;SAVINGS REDUCED to NEAR-zero&lt;/h4&gt;
 &lt;p&gt;The indefinite nature of the pandemic has resulted in a situation where many workers have seen their saving reduced to zero or near-zero levels. This is alarming, especially with the second-wave looming around the corner.&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/SavingsChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SavingsChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;selling-assets&quot;&gt;SELLING ASSETS&lt;/h4&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/SoldStuffMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/SoldStuffDetailMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Losing access does not always necessarily translate to being sold though, as it can happen because of migration.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SoldStuffMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SoldStuffDetailMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Losing access does not always necessarily translate to being sold though, as it can happen because of migration.&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;borrowing-money&quot;&gt;BORROWING MONEY&lt;/h4&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/BorrowingSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/LoanExposure.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BorrowingSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LoanExposure.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;using-up-savings&quot;&gt;USING UP SAVINGS&lt;/h4&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/SavingsChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SavingsChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;financial-challenges-in-the-next-six-months&quot;&gt;financial challenges in the next six months&lt;/h3&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/NextSixMonthsChallengesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/assets/img/charts/NextSixMonthsChallengesMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
         <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
-        <link>/articles/21/economic-impact</link>
-        <guid isPermaLink="true">/articles/21/economic-impact</guid>
+        <link>/kathmandu-interim-report/articles/21/economic-impact</link>
+        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/economic-impact</guid>
         
         
         <category>jekyll</category>
