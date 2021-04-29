@@ -27,9 +27,11 @@ It appears the situation is going to get even more difficult with the second wav
 
 ### How to recover from a pandemic?
 
-In this section, we examine the different financial decisions made by tourism workers in order to overcome the pandemic. In doing this, we uncover some intersting -- but obvious, in hindsight -- insights that reveal how people deal with economic hardship/ 
+The survey provides some useful insight to different financial strategies used by our respondnts in dealing with this economic costs. 
+
 
 #### SAVINGS REDUCED to NEAR-zero
+
 The indefinite nature of the pandemic has resulted in a situation where many workers have seen their saving reduced to zero or near-zero levels. This is alarming, especially with the second-wave looming around the corner. 
 
 {% maincolumn 'assets/img/charts/SavingsChangeDist.png' '' %}
@@ -37,18 +39,18 @@ The indefinite nature of the pandemic has resulted in a situation where many wor
 
 
 #### SELLING ASSETS
-{% maincolumn 'assets/img/charts/SoldStuffMultiples.png' '' %}
-{% maincolumn 'assets/img/charts/SoldStuffDetailMultiples.png' 'Losing access does not always necessarily translate to being sold though, as it can happen because of migration.' %}
 
+Some of our respondents had to forgo some assets. Thankfully, while one-fifths of the population has had to do away with household assets, only some respondents have had to sell professional equipment (7%) or land and property (7%) so far.
+
+{% maincolumn 'assets/img/charts/SoldStuffMultiples.png' '' %}
 
 
 #### BORROWING MONEY
+
+
 {% maincolumn 'assets/img/charts/BorrowingSplit.png' '' %}
 {% maincolumn 'assets/img/charts/LoanExposure.png' '' %}
 
-
-#### USING UP SAVINGS
-{% maincolumn 'assets/img/charts/SavingsChangeDist.png' '' %}
 
 
 ### financial challenges in the next six months
