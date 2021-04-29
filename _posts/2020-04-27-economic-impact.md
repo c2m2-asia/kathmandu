@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lockdown and its economic effects"
+title: "COVID 19 and its impact on Nepalese Tourism"
 date:   2021-04-27 09:46:04
 categories: jekyll css
 ---

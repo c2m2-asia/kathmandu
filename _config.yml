@@ -1,7 +1,7 @@
 baseurl: /kathmandu-interim-report
 title: Kathmandu Interim report
-subtitle: Content-centric blogging
-author: arogya koirala
+# subtitle: Content-centric blogging
+author: Kathmandu Living Labs
 simple_search: http://google.com/search
 # description: A Jekyll theme for content-rich sites
 name: tufte
