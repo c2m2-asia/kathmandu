@@ -5,7 +5,7 @@ date:   2021-04-27 09:46:04
 categories: jekyll css
 ---
 
-Our survey provide some insight around the economic state of the tourism workforces. The section presents our findings.
+In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 107 participants who took part in the C2M2 Workforce survey.
 
 ### STILL LOOKING FOR JOBS
 Around 90% of our respndents reported losing their job at least once during the pandemic. While a very small proportion of these workers have been successful in gaining employment, a sizable majority are still without jobs and currently looking for economic opportunities.
@@ -27,7 +27,7 @@ It appears the situation is going to get even more difficult with the second wav
 
 ### How to recover from a pandemic?
 
-The survey provides some useful insight to different financial strategies used by our respondnts in dealing with this economic costs. 
+Our survey provides some useful insight to different financial strategies used by our respondents in dealing with this economic shock. 
 
 
 #### SAVINGS REDUCED to NEAR-zero
@@ -40,12 +40,13 @@ The indefinite nature of the pandemic has resulted in a situation where many wor
 
 #### SELLING ASSETS
 
-Some of our respondents had to forgo some assets. Thankfully, while one-fifths of the population has had to do away with household assets, only some respondents have had to sell professional equipment (7%) or land and property (7%) so far.
+Around one in every five respondents has had to do away with some of their household assets. Thankfully, only a few of our respondents have had to sell professional equipment (7%) or land and property (7%) so far.
 
 {% maincolumn 'assets/img/charts/SoldStuffMultiples.png' '' %}
 
 
 #### BORROWING MONEY
+
 
 
 {% maincolumn 'assets/img/charts/BorrowingSplit.png' '' %}

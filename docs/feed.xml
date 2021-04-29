@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tufte-Jekyll</title>
-    <description>A Jekyll theme for content-rich sites</description>
+    <title>Kathmandu Interim report</title>
+    <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Apr 2021 01:00:49 -0400</pubDate>
-    <lastBuildDate>Thu, 29 Apr 2021 01:00:49 -0400</lastBuildDate>
+    <pubDate>Thu, 29 Apr 2021 01:28:31 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Apr 2021 01:28:31 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Lockdown and its economic effects</title>
-        <description>&lt;p&gt;Our survey provide some insight around the economic state of the tourism workforces. The section presents our findings.&lt;/p&gt;
+        <description>&lt;p&gt;In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 107 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
 
 &lt;h3 id=&quot;still-looking-for-jobs&quot;&gt;STILL LOOKING FOR JOBS&lt;/h3&gt;
 &lt;p&gt;Around 90% of our respndents reported losing their job at least once during the pandemic. While a very small proportion of these workers have been successful in gaining employment, a sizable majority are still without jobs and currently looking for economic opportunities.&lt;/p&gt;
@@ -31,23 +31,24 @@
 
 &lt;h3 id=&quot;how-to-recover-from-a-pandemic&quot;&gt;How to recover from a pandemic?&lt;/h3&gt;
 
-&lt;p&gt;In this section, we examine the different financial decisions made by tourism workers in order to overcome the pandemic. In doing this, we uncover some intersting – but obvious, in hindsight – insights that reveal how people deal with economic hardship/&lt;/p&gt;
+&lt;p&gt;Our survey provides some useful insight to different financial strategies used by our respondents in dealing with this economic shock.&lt;/p&gt;
 
 &lt;h4 id=&quot;savings-reduced-to-near-zero&quot;&gt;SAVINGS REDUCED to NEAR-zero&lt;/h4&gt;
+
 &lt;p&gt;The indefinite nature of the pandemic has resulted in a situation where many workers have seen their saving reduced to zero or near-zero levels. This is alarming, especially with the second-wave looming around the corner.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SavingsChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;selling-assets&quot;&gt;SELLING ASSETS&lt;/h4&gt;
+
+&lt;p&gt;Around one in every five respondents has had to do away with some of their household assets. Thankfully, only a few of our respondents have had to sell professional equipment (7%) or land and property (7%) so far.&lt;/p&gt;
+
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SoldStuffMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SoldStuffDetailMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Losing access does not always necessarily translate to being sold though, as it can happen because of migration.&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;borrowing-money&quot;&gt;BORROWING MONEY&lt;/h4&gt;
+
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BorrowingSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LoanExposure.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h4 id=&quot;using-up-savings&quot;&gt;USING UP SAVINGS&lt;/h4&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SavingsChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;financial-challenges-in-the-next-six-months&quot;&gt;financial challenges in the next six months&lt;/h3&gt;
 

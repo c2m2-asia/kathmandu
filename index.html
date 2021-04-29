@@ -10,7 +10,7 @@ title: Home
           <!-- <hr class="slender"> -->
           <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="contrast">{{ post.title }}</h2></a>
           <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
-          <div style="max-width:60vw">{{ post.excerpt  }}</div> 
+          <div style="max-width:60vw">{{ post.excerpt | strip_html | truncate: 100 }}</div> 
         </li>
     {% endfor %}
   <!-- </ul> -->
