@@ -5,6 +5,8 @@ date:   2021-04-27 09:46:04
 categories: jekyll css
 ---
 
+<span style="color:red;">This document is at a very early stage and is undergoing lots of changes. At this stage, data and text shown are not verified and therefore cannot be trusted.</span>
+
 In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 107 participants who took part in the C2M2 Workforce survey.
 
 ### STILL LOOKING FOR JOBS
