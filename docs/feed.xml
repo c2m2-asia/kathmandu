@@ -5,30 +5,42 @@
     <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Apr 2021 09:11:57 -0400</pubDate>
-    <lastBuildDate>Thu, 29 Apr 2021 09:11:57 -0400</lastBuildDate>
+    <pubDate>Thu, 29 Apr 2021 11:34:54 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Apr 2021 11:34:54 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>COVID 19 and its impact on Nepalese Tourism</title>
-        <description>&lt;p&gt;&lt;span style=&quot;color:red;&quot;&gt;This document is at a very early stage and is undergoing lots of changes. At this stage, data and text shown are not verified and therefore cannot be trusted.&lt;/span&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;span style=&quot;color:red;&quot;&gt;This document is at a very early stage and is undergoing lots of changes. Data and text below have not been verified and therefore cannot be trusted.&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 107 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
+&lt;p&gt;In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
 
-&lt;h3 id=&quot;still-looking-for-jobs&quot;&gt;STILL LOOKING FOR JOBS&lt;/h3&gt;
-&lt;p&gt;Around 90% of our respndents reported losing their job at least once during the pandemic. While a very small proportion of these workers have been successful in gaining employment, a sizable majority are still without jobs and currently looking for economic opportunities.&lt;/p&gt;
+&lt;h3 id=&quot;still-searching&quot;&gt;STILL SEARCHING&lt;/h3&gt;
+&lt;p&gt;More than 80% of our respndents reported losing their job at least once during the pandemic. While a little more than one-sixth of our workers have been successful in gaining employment, a sizable majority (65%) are still without jobs and currently looking for economic opportunities (see graph below).&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LostJobsSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: The group &amp;#8220;working now&amp;#8221; &lt;strong&gt;also includes&lt;/strong&gt; those who are presently working in sectors other than tourism, but are interested in re-entering the tourism sector.&lt;/figcaption&gt;&lt;/figure&gt;
 
+&lt;!-- ### income &gt; vocation
+
+&lt;figure&gt;&lt;img src='/kathmandu-interim-report/assets/img/charts/PresentlyEmployedOccupationSplit.png'/&gt;&lt;figcaption class='maincolumn-figure'&gt;&lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+
 &lt;h3 id=&quot;pay-cuts-the-new-normal&quot;&gt;PAY CUTS: THE New NORMAL?&lt;/h3&gt;
-&lt;p&gt;Even with those lucky few people who have managed to hold on to their jobs (10%, see chart below) throughout the pandemic, living with a pay cut has become a harsh reality.&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/StayedEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;It is worth mentioning at this point that most of our respondents work as trekking and/or mountain guides. This should explain why most were not able to hold on to their jobs, as most guides are hired by tourists. See &lt;a&gt;survey demographics&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;What’s worrying is that nearly 60% of folks who are presently employed work at reduced income levels.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PresentlyEmployedSalaryCutSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;Around 91% of our respondents reported that earnings haven’t gotten back to pre-covid levels. To make matters worse, 80% of our respondents reported not seeing their earnings return to pre-covid levels for more than a year now (see graph below).&lt;/p&gt;
+&lt;p&gt;It’s also worth exploring how income losses vary between a) those who managed retain their employment status throughout the pandemic vs. b) those who lost their jobs once, but managed to find employment again. For reference, here’s what the split looks like graphically.&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LastDateFullSalaryDist2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: This charts contains responses from &lt;strong&gt;all&lt;/strong&gt; of our respondents.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PresentlyEmployedEmplStatusSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
+&lt;p&gt;Looks like a fifty-fifty split. Now, on to income losses. It appears, pay cuts are more common for employees who valued job security. Only 3% who remained employed all through the pandemic have managed to retain their pre-pandemic incomes.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/StayedEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;a-year-of-reduced-income&quot;&gt;A Year of reduced income&lt;/h4&gt;
+&lt;p&gt;In total, 63% of our workers who are currently employed have reported not seeing their earnings return to pre-covid levels for more than a year now (see graph below).&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LastDateFullSalaryDist2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: This chart contains responses from &lt;strong&gt;only those respondents who are presently employed&lt;/strong&gt;. &lt;br /&gt; &lt;br /&gt; To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-covid levels since &amp;#8220;Before March 2020&amp;#8221;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;It appears the situation is going to get even more difficult with the second wave approaching.&lt;/p&gt;
 
 &lt;h3 id=&quot;dealing-with-the-financial-impact&quot;&gt;Dealing with the financial impact&lt;/h3&gt;
@@ -43,25 +55,27 @@
 
 &lt;h4 id=&quot;selling-assets-household-items-are-the-first-to-go&quot;&gt;SELLING ASSETS: Household items are the first to go&lt;/h4&gt;
 
-&lt;p&gt;Around one in every five respondents has had to do away with some of their household assets. Thankfully, only a few of our respondents have had to sell professional equipment (7%) or land and property (7%) so far.&lt;/p&gt;
+&lt;p&gt;Around one in every four respondents had to do away with some of their personal or household assets. Thankfully, only a few of our respondents have had to sell professional equipment (7%) or land and property (7%) so far.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SoldStuffMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;borrowing-money-friends-and-family-to-the-rescue&quot;&gt;BORROWING MONEY: Friends and family to the rescue&lt;/h4&gt;
 
-&lt;p&gt;Our in-person interviews revealed that workers in the tourism sector shy away from borrowing though financial institutions. The reason is that they lack property, real-estate, or other assets that can be provided as collateral. And indeed, our survey results also seem to corroborate with this idea, with nearly three-quarters (75%) of our srespondents admit to borrowing exclusively from friends and family.&lt;/p&gt;
+&lt;p&gt;Our in-person interviews revealed that workers in the tourism sector shy away from borrowing though financial institutions. The reason is that they lack property, real-estate, or other assets that can be provided as collateral. And indeed, our survey results also seem to corroborate with this idea, with more than three-fifths (64%) of our srespondents admit to borrowing exclusively from friends and family.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BorrowingSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;The situation is worsened by the fact that at present, nearly all (98%) of our respondents report that they are in some form of debt.&lt;/p&gt;
+&lt;p&gt;The situation is worsened by the fact that at present, nearly all (93%) of our respondents report that they are in some form of debt.&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LoanExposure.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;Unfortunately, it appears being in debt is now part of the new normal.&lt;/p&gt;
+&lt;p&gt;Unfortunately, being in debt – as our data shows – is a very real possibility in the “new normal”.&lt;/p&gt;
 
-&lt;h3 id=&quot;financial-challenges-in-the-next-six-months&quot;&gt;financial challenges in the next six months&lt;/h3&gt;
+&lt;h3 id=&quot;the-next-six-months&quot;&gt;the next six months&lt;/h3&gt;
+
+&lt;p&gt;Unsurprisingly – and rather unfortunately – immediate priorities of workers in the tourism industry seem to echo those of our ancestors in the stone age: food and shelter. The Covid-19 pandemic has really take a big economic toll on individuals. With reduced savings, few options for borrowing, and increasing debt, the situation of the tourism labour seems very fragile. Who knows what’s going to happen with a second wave approaching.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- &lt;figure&gt;&lt;img src='/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesMultiples.png'/&gt;&lt;figcaption class='maincolumn-figure'&gt;&lt;/figcaption&gt;&lt;/figure&gt; --&gt;
 </description>
         <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
         <link>/kathmandu-interim-report/articles/21/economic-impact</link>
