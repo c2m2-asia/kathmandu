@@ -20,38 +20,41 @@ Even with those lucky few people who have managed to hold on to their jobs (10%,
 
 Around 91% of our respondents reported that earnings haven't gotten back to pre-covid levels. To make matters worse, 80% of our respondents reported not seeing their earnings return to pre-covid levels for more than a year now (see graph below).
 
-{% maincolumn 'assets/img/charts/LastDateFullSalaryDist2.png' '' %}
+{% maincolumn 'assets/img/charts/LastDateFullSalaryDist2.png' 'Note: This charts contains responses from **all** of our respondents.' %}
 
 It appears the situation is going to get even more difficult with the second wave approaching.
 
 
-### How to recover from a pandemic?
+### Dealing with the financial impact
 
-Our survey provides some useful insight to different financial strategies used by our respondents in dealing with this economic shock. 
+Our survey provides some useful insight to different financial strategies used by our respondents in dealing with this economic shock brought forth by the crisis.
 
 
-#### SAVINGS REDUCED to NEAR-zero
+#### SAVINGS: REDUCED to NEAR-zero
 
-The indefinite nature of the pandemic has resulted in a situation where many workers have seen their saving reduced to zero or near-zero levels. This is alarming, especially with the second-wave looming around the corner. 
+The indefinite nature of the pandemic has resulted in a situation where many workers (~ 90%) have seen their savings reduced to zero or near-zero levels. This is alarming, especially with the second-wave looming around the corner. 
 
 {% maincolumn 'assets/img/charts/SavingsChangeDist.png' '' %}
 
 
 
-#### SELLING ASSETS
+#### SELLING ASSETS: Household items are the first to go
 
 Around one in every five respondents has had to do away with some of their household assets. Thankfully, only a few of our respondents have had to sell professional equipment (7%) or land and property (7%) so far.
 
 {% maincolumn 'assets/img/charts/SoldStuffMultiples.png' '' %}
 
 
-#### BORROWING MONEY
+#### BORROWING MONEY: Friends and family to the rescue
 
-
+Our in-person interviews revealed that workers in the tourism sector shy away from borrowing though financial institutions. The reason is that they lack property, real-estate, or other assets that can be provided as collateral. And indeed, our survey results also seem to corroborate with this idea, with nearly three-quarters (75%) of our srespondents admit to borrowing exclusively from friends and family. 
 
 {% maincolumn 'assets/img/charts/BorrowingSplit.png' '' %}
+
+The situation is worsened by the fact that at present, nearly all (98%) of our respondents report that they are in some form of debt.
 {% maincolumn 'assets/img/charts/LoanExposure.png' '' %}
 
+Unfortunately, it appears being in debt is now part of the new normal.
 
 
 ### financial challenges in the next six months
