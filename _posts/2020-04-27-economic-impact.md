@@ -10,7 +10,7 @@ categories: jekyll css
 In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.
 
 ### STILL SEARCHING
-More than 80% of our respndents reported losing their job at least once during the pandemic. While a little more than one-sixth of our workers have been successful in gaining employment, a sizable majority (65%) are still without jobs and currently looking for economic opportunities (see graph below).
+More than 80% of our respondents reported losing their job at least once during the pandemic. While a little more than one-sixth of our workers have been successful in gaining employment, a sizable majority (65%) are still without jobs and currently looking for economic opportunities (see graph below).
 
 {% maincolumn 'assets/img/charts/LostJobsSplit.png' 'Note: The group "working now" **also includes** those who are presently working in sectors other than tourism, but are interested in re-entering the tourism sector.' %}
 
@@ -26,7 +26,7 @@ More than 80% of our respndents reported losing their job at least once during t
 What's worrying is that nearly 60% of folks who are presently employed work at reduced income levels.
 {% maincolumn 'assets/img/charts/PresentlyEmployedSalaryCutSplit.png' '' %}
 
-It's also worth exploring how income losses vary between a) those who managed retain their employment status throughout the pandemic vs. b) those who lost their jobs once, but managed to find employment again. For reference, here's what the split looks like graphically. 
+At this stage, it's worth exploring how income losses vary between a) those who managed to retain their employment status throughout the pandemic vs. b) those who lost their jobs once, but managed to find employment again. For reference, here's what the split looks like graphically. 
 
 {% maincolumn 'assets/img/charts/PresentlyEmployedEmplStatusSplit.png' '' %}
 
