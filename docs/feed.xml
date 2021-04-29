@@ -5,18 +5,18 @@
     <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Apr 2021 11:45:23 -0400</pubDate>
-    <lastBuildDate>Thu, 29 Apr 2021 11:45:23 -0400</lastBuildDate>
+    <pubDate>Thu, 29 Apr 2021 12:18:14 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Apr 2021 12:18:14 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
-        <title>COVID 19 and its impact on Nepalese Tourism</title>
-        <description>&lt;p&gt;&lt;span style=&quot;color:red;&quot;&gt;This document is at a very early stage and shows numbers and data from an ongoing survey. Naturally, it is undergoing a lot of iterations. While we have been very careful with the calculations shown below, code for generating these numbers has not been fully verified. Hence, insights presented in this page cannot be completely trusted.&lt;/span&gt;&lt;/p&gt;
+        <title>COVID-19 and its impact on Nepalese Tourism</title>
+        <description>&lt;p&gt;&lt;span style=&quot;color:red;&quot;&gt;This document is at a very early stage and shows numbers and data from an ongoing survey. Naturally, it is undergoing a lot of iterations. While we have been careful with the calculations shown below, code for generating these numbers has not been fully verified. Hence, insights presented in this page cannot be completely trusted.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
 
 &lt;h3 id=&quot;still-searching&quot;&gt;STILL SEARCHING&lt;/h3&gt;
-&lt;p&gt;More than 80% of our respondents reported losing their job at least once during the pandemic. While a little more than one-sixth of our workers have been successful in gaining employment, a sizable majority (65%) are still without jobs and currently looking for economic opportunities (see graph below).&lt;/p&gt;
+&lt;p&gt;More than 80% of our respondents reported losing their job at least once during the pandemic. As we can see, a sizable majority (65%) of those who faced unemployent are still without jobs and currently looking for opportunities (see graph below).&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LostJobsSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: The group &amp;#8220;working now&amp;#8221; &lt;strong&gt;also includes&lt;/strong&gt; those who are presently working in sectors other than tourism, but are interested in re-entering the tourism sector.&lt;/figcaption&gt;&lt;/figure&gt;
 
@@ -26,26 +26,26 @@
 
 &lt;h3 id=&quot;pay-cuts-the-new-normal&quot;&gt;PAY CUTS: THE New NORMAL?&lt;/h3&gt;
 
-&lt;p&gt;What’s worrying is that nearly 60% of folks who are presently employed work at reduced income levels.&lt;/p&gt;
+&lt;p&gt;It’s equally  worrying to learn that nearly 60% of folks who have jobs work at reduced income levels.&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PresentlyEmployedSalaryCutSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;At this stage, it’s worth exploring how income losses vary between a) those who managed to retain their employment status throughout the pandemic vs. b) those who lost their jobs once, but managed to find employment again. For reference, here’s what the split looks like graphically.&lt;/p&gt;
+&lt;p&gt;We figured it’s also worth exploring how income losses vary between a) those who managed to retain their employment status throughout the pandemic vs. b) those who lost their jobs once, but managed to find employment again. For reference, here’s what the split looks like graphically.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PresentlyEmployedEmplStatusSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;Looks like a fifty-fifty split. Now, on to income losses. It appears, pay cuts are more common for employees who valued job security. Only 3% who remained employed all through the pandemic have managed to retain their pre-pandemic incomes.&lt;/p&gt;
+&lt;p&gt;A fifty-fifty split. Now, on to income losses. It appears pay cuts are more common for employees who value job security. Only 3% who remained employed all through the pandemic have managed to retain their pre-pandemic incomes.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/StayedEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;a-year-of-reduced-income&quot;&gt;A Year of reduced income&lt;/h4&gt;
-&lt;p&gt;In total, 63% of our workers who are currently employed have reported not seeing their earnings return to pre-covid levels for more than a year now (see graph below).&lt;/p&gt;
+&lt;p&gt;63% of our workers who are presently employed have reported not seeing their earnings return to pre-covid levels for more than a year now (see graph below).&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LastDateFullSalaryDist2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: This chart contains responses from &lt;strong&gt;only those respondents who are presently employed&lt;/strong&gt;. &lt;br /&gt; &lt;br /&gt; To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-covid levels since &amp;#8220;Before March 2020&amp;#8221;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;It appears the situation is going to get even more difficult with the second wave approaching.&lt;/p&gt;
 
 &lt;h3 id=&quot;dealing-with-the-financial-impact&quot;&gt;Dealing with the financial impact&lt;/h3&gt;
 
-&lt;p&gt;Our survey provides some useful insight to different financial strategies used by our respondents in dealing with this economic shock brought forth by the crisis.&lt;/p&gt;
+&lt;p&gt;It’s clear many workers aren’t earning at the levels they previously used to. At this point, let’s try and understand the different financial strategies used by our respondents in dealing with this economic shock brought forth by the crisis.&lt;/p&gt;
 
 &lt;h4 id=&quot;savings-reduced-to-near-zero&quot;&gt;SAVINGS: REDUCED to NEAR-zero&lt;/h4&gt;
 
@@ -72,7 +72,7 @@
 
 &lt;h3 id=&quot;the-next-six-months&quot;&gt;the next six months&lt;/h3&gt;
 
-&lt;p&gt;Unsurprisingly – and rather unfortunately – immediate priorities of workers in the tourism industry seem to echo those of our ancestors in the stone age: food and shelter. The Covid-19 pandemic has really take a big economic toll on individuals. With reduced savings, few options for borrowing, and increasing debt, the situation of the tourism labour seems very fragile. Who knows what’s going to happen with a second wave approaching.&lt;/p&gt;
+&lt;p&gt;Unsurprisingly – and rather unfortunately – immediate priorities of workers in the tourism industry seem to echo those of our ancestors in the stone age: food and shelter. The Covid-19 pandemic has really take a big economic toll on individuals. With reduced savings, few options for borrowing, and increasing debt, the situation of the Nepalese tourism labour force seems very fragile.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;!-- &lt;figure&gt;&lt;img src='/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesMultiples.png'/&gt;&lt;figcaption class='maincolumn-figure'&gt;&lt;/figcaption&gt;&lt;/figure&gt; --&gt;
