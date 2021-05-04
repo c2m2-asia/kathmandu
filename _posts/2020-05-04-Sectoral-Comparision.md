@@ -28,7 +28,6 @@ categories: jekyll css
 ### EFFECTS ON OCCUPATION
 {% maincolumn 'assets/img/charts/SectoralProfessionRetentionProportionalSplit.png' '' %}
 
-<!-- ### FINANCIAL PROTECTION
-{% maincolumn 'assets/img/charts/SectoralAlternateIncomeSourceProportionalSplit.png' '' %} -->
+
 
 
