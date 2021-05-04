@@ -5,23 +5,35 @@
     <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 May 2021 00:35:40 -0400</pubDate>
-    <lastBuildDate>Tue, 04 May 2021 00:35:40 -0400</lastBuildDate>
+    <pubDate>Tue, 04 May 2021 06:13:07 -0400</pubDate>
+    <lastBuildDate>Tue, 04 May 2021 06:13:07 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
-        <title>Pychosocial impacts</title>
-        <description>&lt;p&gt;&lt;span style=&quot;color:red;&quot;&gt;This document is at a very early stage and shows numbers and data from an ongoing survey. Naturally, it is undergoing a lot of iterations. While we have been careful with the calculations shown below, code for generating these numbers has not been fully verified. Hence, insights presented in this page cannot be completely trusted.&lt;/span&gt;&lt;/p&gt;
+        <title>Are some tourism sectors more affected than others?</title>
+        <description>&lt;h3 id=&quot;sectoral-breakdown&quot;&gt;SECTORAL BREAKDOWN&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralBreakdownMultiple.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note that the sum of these numbers is greater than 100%. At the time of pilot-testing our survey, we learned from stakeholders in the industry that in many cases people are involved in more than one job.&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;In this section, we look at the psychosocial impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
+&lt;h3 id=&quot;people-who-lost-jobs-in-the-pandemic&quot;&gt;PEOPLE WHO LOST JOBS IN THE PANDEMIC&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralLostJobsProportionalSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PsychologicallyAffectedDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PsychosocialEffectsMultiples2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/CounselingDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;present-employment-rates&quot;&gt;PRESENT EMPLOYMENT RATES&lt;/h3&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralEmployedProportionalSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;salary-retention-rate&quot;&gt;SALARY RETENTION RATE&lt;/h4&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralSalaryRetentionProportionalSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;effects-on-occupation&quot;&gt;EFFECTS ON OCCUPATION&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralProfessionRetentionProportionalSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;financial-protection&quot;&gt;FINANCIAL PROTECTION&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralAlternateIncomeSourceProportionalSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
 </description>
         <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
-        <link>/kathmandu-interim-report/articles/21/psychosocial-impact</link>
-        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/psychosocial-impact</guid>
+        <link>/kathmandu-interim-report/articles/21/Sectoral-Comparision</link>
+        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/Sectoral-Comparision</guid>
         
         
         <category>jekyll</category>
@@ -31,34 +43,8 @@
       </item>
     
       <item>
-        <title>Sectoral impacts and needs</title>
-        <description>&lt;p&gt;&lt;span style=&quot;color:red;&quot;&gt;This document is at a very early stage and shows numbers and data from an ongoing survey. Naturally, it is undergoing a lot of iterations. While we have been careful with the calculations shown below, code for generating these numbers has not been fully verified. Hence, insights presented in this page cannot be completely trusted.&lt;/span&gt;&lt;/p&gt;
-
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralBreakdownMultiple.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;the-experience-selling-sector&quot;&gt;The experience selling sector&lt;/h3&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/ExpSellUnemploymentSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/ExpSellEmployedJobChangeSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/ExpSellMoveNoMoveSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p&gt;ExpSellMoveNoMoveSplit&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
-        <link>/kathmandu-interim-report/articles/21/livelihood-impacts</link>
-        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/livelihood-impacts</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>css</category>
-        
-      </item>
-    
-      <item>
-        <title>COVID-19 and its impact on Nepalese Tourism</title>
-        <description>&lt;p&gt;&lt;span style=&quot;color:red;&quot;&gt;This document is at a very early stage and shows numbers and data from an ongoing survey. Naturally, it is undergoing a lot of iterations. While we have been careful with the calculations shown below, code for generating these numbers has not been fully verified. Hence, insights presented in this page cannot be completely trusted.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
+        <title>How has Covid-19 affected the Nepali tourism workforce?</title>
+        <description>&lt;p&gt;In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
 
 &lt;h3 id=&quot;still-searching&quot;&gt;STILL SEARCHING&lt;/h3&gt;
 &lt;p&gt;More than 80% of our respondents reported losing their job at least once during the pandemic. As we can see, a sizable majority (65%) of those who faced unemployent are still without jobs and currently looking for opportunities (see graph below).&lt;/p&gt;
@@ -125,6 +111,34 @@
         <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
         <link>/kathmandu-interim-report/articles/21/economic-impact</link>
         <guid isPermaLink="true">/kathmandu-interim-report/articles/21/economic-impact</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>css</category>
+        
+      </item>
+    
+      <item>
+        <title>The people behind the data: workforce survey demographics</title>
+        <description>&lt;h3 id=&quot;sectoral-breakdown&quot;&gt;SECTORAL BREAKDOWN&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralBreakdownMultiple.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note that the sum of these numbers is greater than 100%. At the time of pilot-testing our survey, we learned from stakeholders in the industry that in many cases people are involved in more than one job.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;come-to-tourism-stay-in-tourism&quot;&gt;COME TO TOURISM, STAY IN TOURISM&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/ExperienceBreakdownDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;male-dominated-much&quot;&gt;MALE-DOMINATED MUCH?&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/GenderBreakDownDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;a-low-educational-barrier-to-entry&quot;&gt;A LOW (EDUCATIONAL) BARRIER TO ENTRY?&lt;/h3&gt;
+&lt;p&gt;No wonder tourism is Nepal’s largest employer.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/EduLevlBreakDownDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+        <pubDate>Tue, 27 Apr 2021 05:44:04 -0400</pubDate>
+        <link>/kathmandu-interim-report/articles/21/survey-demographics</link>
+        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/survey-demographics</guid>
         
         
         <category>jekyll</category>
