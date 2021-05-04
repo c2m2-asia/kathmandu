@@ -4,6 +4,8 @@ The *Tufte-Jekyll* blog theme is based on the github repository by Edward Tufte 
 
 Please be aware that the feature parity between the tufte-css repository and this project is not perfect. It is very close, but this Jekyll theme has additional CSS to scratch some of my own itches. One example is that the sidenote's typography is vertically spaced in my CSS so they are on the same baseline grid as the body text and it doesn't hurt my eyes when I look at them. Another example is the optional use of color to style links. The current tufte.css repo doesn't allow that, but my opinion is that hey, this is the web. It shouldn't have to ape the way a book looks exactly.  I attempt to stay true to the overall sensibility of the tufte.css repo, but I am not going to sacrifice anything that I think reduces the usability or esthetics of this theme in the service of exact feature parity. Just as I have 'forked' the tufte.css, you are more than welcome to modify this theme to suit your own tastes and specific needs.
 
+`jekyll serve -w --force_polling`
+
 ## Demo
 
 A sample site with self-documenting content is available [here](http://clayh53.github.io/tufte-jekyll/) on github pages.

@@ -4,7 +4,7 @@ title: Home
 # Note that this index page uses a full-width layout!
 ---
 
-  <!-- <ul class="content-listing "> -->
+  <ul class="content-listing ">
     {% for post in site.posts %}      
         <li class="listing">
           <!-- <hr class="slender"> -->
@@ -13,4 +13,4 @@ title: Home
           <div style="max-width:60vw">{{ post.excerpt | strip_html | truncate: 100 }}</div> 
         </li>
     {% endfor %}
-  <!-- </ul> -->
+  </ul>

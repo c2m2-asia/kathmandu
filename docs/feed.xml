@@ -5,9 +5,54 @@
     <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Apr 2021 12:18:14 -0400</pubDate>
-    <lastBuildDate>Thu, 29 Apr 2021 12:18:14 -0400</lastBuildDate>
+    <pubDate>Tue, 04 May 2021 00:35:40 -0400</pubDate>
+    <lastBuildDate>Tue, 04 May 2021 00:35:40 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Pychosocial impacts</title>
+        <description>&lt;p&gt;&lt;span style=&quot;color:red;&quot;&gt;This document is at a very early stage and shows numbers and data from an ongoing survey. Naturally, it is undergoing a lot of iterations. While we have been careful with the calculations shown below, code for generating these numbers has not been fully verified. Hence, insights presented in this page cannot be completely trusted.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;In this section, we look at the psychosocial impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PsychologicallyAffectedDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PsychosocialEffectsMultiples2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/CounselingDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
+        <link>/kathmandu-interim-report/articles/21/psychosocial-impact</link>
+        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/psychosocial-impact</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>css</category>
+        
+      </item>
+    
+      <item>
+        <title>Sectoral impacts and needs</title>
+        <description>&lt;p&gt;&lt;span style=&quot;color:red;&quot;&gt;This document is at a very early stage and shows numbers and data from an ongoing survey. Naturally, it is undergoing a lot of iterations. While we have been careful with the calculations shown below, code for generating these numbers has not been fully verified. Hence, insights presented in this page cannot be completely trusted.&lt;/span&gt;&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralBreakdownMultiple.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;the-experience-selling-sector&quot;&gt;The experience selling sector&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/ExpSellUnemploymentSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/ExpSellEmployedJobChangeSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/ExpSellMoveNoMoveSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;ExpSellMoveNoMoveSplit&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
+        <link>/kathmandu-interim-report/articles/21/livelihood-impacts</link>
+        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/livelihood-impacts</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>css</category>
+        
+      </item>
     
       <item>
         <title>COVID-19 and its impact on Nepalese Tourism</title>
