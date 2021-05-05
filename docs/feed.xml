@@ -5,13 +5,17 @@
     <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 May 2021 06:13:07 -0400</pubDate>
-    <lastBuildDate>Tue, 04 May 2021 06:13:07 -0400</lastBuildDate>
+    <pubDate>Wed, 05 May 2021 04:57:47 -0400</pubDate>
+    <lastBuildDate>Wed, 05 May 2021 04:57:47 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Are some tourism sectors more affected than others?</title>
-        <description>&lt;h3 id=&quot;sectoral-breakdown&quot;&gt;SECTORAL BREAKDOWN&lt;/h3&gt;
+        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;One could argue that the pandemic&lt;/span&gt;  has taken a more severe toll on some sectors in the Nepalese tourism industry than others. And indeed, we had already begun see some indication of this pattern from our in-person interviews conducted in Febrary 2021.&lt;/p&gt;
+
+&lt;p&gt;Taking this idea a step further, we wondered what additional inferences we can draw about these cross-sectoral differences from the data collected through our workforce and business surveys. What follows, therefore, is a data-driven, cross-sectoral examination of this very idea.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-skewed-demographic&quot;&gt;A SKEWED DEMOGRAPHIC&lt;/h3&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralBreakdownMultiple.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note that the sum of these numbers is greater than 100%. At the time of pilot-testing our survey, we learned from stakeholders in the industry that in many cases people are involved in more than one job.&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;people-who-lost-jobs-in-the-pandemic&quot;&gt;PEOPLE WHO LOST JOBS IN THE PANDEMIC&lt;/h3&gt;
@@ -27,9 +31,6 @@
 &lt;h3 id=&quot;effects-on-occupation&quot;&gt;EFFECTS ON OCCUPATION&lt;/h3&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralProfessionRetentionProportionalSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;h3 id=&quot;financial-protection&quot;&gt;FINANCIAL PROTECTION&lt;/h3&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/SectoralAlternateIncomeSourceProportionalSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
 </description>
         <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
         <link>/kathmandu-interim-report/articles/21/Sectoral-Comparision</link>
@@ -43,11 +44,16 @@
       </item>
     
       <item>
-        <title>How has Covid-19 affected the Nepali tourism workforce?</title>
-        <description>&lt;p&gt;In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
+        <title>How has COVID-19 affected the Nepali tourism workforce?</title>
+        <description>&lt;p&gt;Insights shown in this page have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
+
+&lt;h2 id=&quot;economic-effects&quot;&gt;Economic effects&lt;/h2&gt;
+&lt;p&gt;In this section, we look at the impact that the COVID-19 pandemic has had on the Nepali tourism workforce.&lt;/p&gt;
 
 &lt;h3 id=&quot;still-searching&quot;&gt;STILL SEARCHING&lt;/h3&gt;
 &lt;p&gt;More than 80% of our respondents reported losing their job at least once during the pandemic. As we can see, a sizable majority (65%) of those who faced unemployent are still without jobs and currently looking for opportunities (see graph below).&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LostOrKeptJobSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LostJobsSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: The group &amp;#8220;working now&amp;#8221; &lt;strong&gt;also includes&lt;/strong&gt; those who are presently working in sectors other than tourism, but are interested in re-entering the tourism sector.&lt;/figcaption&gt;&lt;/figure&gt;
 
@@ -56,6 +62,8 @@
 &lt;figure&gt;&lt;img src='/kathmandu-interim-report/assets/img/charts/PresentlyEmployedOccupationSplit.png'/&gt;&lt;figcaption class='maincolumn-figure'&gt;&lt;/figcaption&gt;&lt;/figure&gt; --&gt;
 
 &lt;h3 id=&quot;pay-cuts-the-new-normal&quot;&gt;PAY CUTS: THE New NORMAL?&lt;/h3&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PresentlyEmployedUnemployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;It’s equally  worrying to learn that nearly 60% of folks who have jobs work at reduced income levels.&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PresentlyEmployedSalaryCutSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
@@ -69,9 +77,9 @@
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/StayedEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;a-year-of-reduced-income&quot;&gt;A Year of reduced income&lt;/h4&gt;
-&lt;p&gt;63% of our workers who are presently employed have reported not seeing their earnings return to pre-covid levels for more than a year now (see graph below).&lt;/p&gt;
+&lt;p&gt;63% of our workers who are presently employed have reported not seeing their earnings return to pre-pandemic levels for more than a year now (see graph below).&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LastDateFullSalaryDist2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: This chart contains responses from &lt;strong&gt;only those respondents who are presently employed&lt;/strong&gt;. &lt;br /&gt; &lt;br /&gt; To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-covid levels since &amp;#8220;Before March 2020&amp;#8221;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LastDateFullSalaryDist2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: This chart contains responses from &lt;strong&gt;only those respondents who are presently employed&lt;/strong&gt;. &lt;br /&gt; &lt;br /&gt; To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-pandemic levels since &amp;#8220;Before March 2020&amp;#8221;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;It appears the situation is going to get even more difficult with the second wave approaching.&lt;/p&gt;
 
 &lt;h3 id=&quot;dealing-with-the-financial-impact&quot;&gt;Dealing with the financial impact&lt;/h3&gt;
@@ -103,14 +111,41 @@
 
 &lt;h3 id=&quot;the-next-six-months&quot;&gt;the next six months&lt;/h3&gt;
 
-&lt;p&gt;Unsurprisingly – and rather unfortunately – immediate priorities of workers in the tourism industry seem to echo those of our ancestors in the stone age: food and shelter. The Covid-19 pandemic has really take a big economic toll on individuals. With reduced savings, few options for borrowing, and increasing debt, the situation of the Nepalese tourism labour force seems very fragile.&lt;/p&gt;
+&lt;p&gt;Unsurprisingly – and rather unfortunately – immediate priorities of workers in the tourism industry seem to echo those of our ancestors in the stone age: food and shelter. The COVID-19 pandemic has really take a big economic toll on individuals. With reduced savings, few options for borrowing, and increasing debt, the situation of the Nepalese tourism labour force seems very fragile.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;worker-movement-and-skills-loss&quot;&gt;Worker movement and skills loss&lt;/h2&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/MovementSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/TempPermMigrationSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/TempEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PermEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PresentlyEmployedUnemployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PresentlyEmployedJobSwitchSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;effects-on-workers-families&quot;&gt;Effects on workers families&lt;/h2&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/FamilyMoveNoMoveSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/TemporaryPermanentMovementSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/WitdhrawEducationDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/WitdhrawHealthServiceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;psychosocial-effects&quot;&gt;Psychosocial effects&lt;/h2&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PsychologicallyAffectedDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PsychosocialEffectsMultiples2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/CounselingDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;!-- &lt;figure&gt;&lt;img src='/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesMultiples.png'/&gt;&lt;figcaption class='maincolumn-figure'&gt;&lt;/figcaption&gt;&lt;/figure&gt; --&gt;
 </description>
         <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
-        <link>/kathmandu-interim-report/articles/21/economic-impact</link>
-        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/economic-impact</guid>
+        <link>/kathmandu-interim-report/articles/21/workforce-impact</link>
+        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/workforce-impact</guid>
         
         
         <category>jekyll</category>
@@ -134,6 +169,12 @@
 &lt;p&gt;No wonder tourism is Nepal’s largest employer.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/EduLevlBreakDownDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;where-workers-come-from&quot;&gt;Where workers come from?&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/WorkerOriginMap.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;where-do-most-of-them-work&quot;&gt;Where do most of them work?&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/WorkersWorkPlaceMap.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 </description>
         <pubDate>Tue, 27 Apr 2021 05:44:04 -0400</pubDate>

@@ -26,4 +26,10 @@ No wonder tourism is Nepal's largest employer.
 
 
 
+### Where workers come from?
+{% maincolumn 'assets/img/charts/WorkerOriginMap.png' '' %}
+
+### Where do most of them work?
+{% maincolumn 'assets/img/charts/WorkersWorkPlaceMap.png' '' %}
+
 

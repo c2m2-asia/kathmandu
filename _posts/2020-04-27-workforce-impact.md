@@ -1,14 +1,21 @@
 ---
 layout: post
-title: "How has Covid-19 affected the Nepali tourism workforce?"
+title: "How has COVID-19 affected the Nepali tourism workforce?"
 date:   2021-04-27 09:46:04
 categories: jekyll css
 ---
 
-In this section, we look at the economic impact that the Covid-19 pandemic has had on the Nepali tourism workforce. Insights shown below have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.
+Insights shown in this page have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.
+
+## Economic effects
+In this section, we look at the impact that the COVID-19 pandemic has had on the Nepali tourism workforce. 
 
 ### STILL SEARCHING
 More than 80% of our respondents reported losing their job at least once during the pandemic. As we can see, a sizable majority (65%) of those who faced unemployent are still without jobs and currently looking for opportunities (see graph below).
+
+{% maincolumn 'assets/img/charts/LostOrKeptJobSplit.png' '' %}
+
+
 
 {% maincolumn 'assets/img/charts/LostJobsSplit.png' 'Note: The group "working now" **also includes** those who are presently working in sectors other than tourism, but are interested in re-entering the tourism sector.' %}
 
@@ -18,6 +25,8 @@ More than 80% of our respondents reported losing their job at least once during 
 
 
 ### PAY CUTS: THE New NORMAL?
+
+{% maincolumn 'assets/img/charts/PresentlyEmployedUnemployedSplit.png' '' %}
 
 It's equally  worrying to learn that nearly 60% of folks who have jobs work at reduced income levels.
 {% maincolumn 'assets/img/charts/PresentlyEmployedSalaryCutSplit.png' '' %}
@@ -31,9 +40,9 @@ A fifty-fifty split. Now, on to income losses. It appears pay cuts are more comm
 {% maincolumn 'assets/img/charts/StayedEmployedSplit.png' '' %}
 
 #### A Year of reduced income
-63% of our workers who are presently employed have reported not seeing their earnings return to pre-covid levels for more than a year now (see graph below).
+63% of our workers who are presently employed have reported not seeing their earnings return to pre-pandemic levels for more than a year now (see graph below).
 
-{% maincolumn 'assets/img/charts/LastDateFullSalaryDist2.png' 'Note: This chart contains responses from **only those respondents who are presently employed**. <br/> <br/> To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-covid levels since "Before March 2020"' %} 
+{% maincolumn 'assets/img/charts/LastDateFullSalaryDist2.png' 'Note: This chart contains responses from **only those respondents who are presently employed**. <br/> <br/> To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-pandemic levels since "Before March 2020"' %} 
 It appears the situation is going to get even more difficult with the second wave approaching.
 
 
@@ -68,13 +77,50 @@ The situation is worsened by the fact that at present, nearly all (93%) of our r
 
 Unfortunately, being in debt -- as our data shows -- is a very real possibility in the "new normal".
 
-
-
-
-
 ### the next six months
 
-Unsurprisingly -- and rather unfortunately -- immediate priorities of workers in the tourism industry seem to echo those of our ancestors in the stone age: food and shelter. The Covid-19 pandemic has really take a big economic toll on individuals. With reduced savings, few options for borrowing, and increasing debt, the situation of the Nepalese tourism labour force seems very fragile. 
+Unsurprisingly -- and rather unfortunately -- immediate priorities of workers in the tourism industry seem to echo those of our ancestors in the stone age: food and shelter. The COVID-19 pandemic has really take a big economic toll on individuals. With reduced savings, few options for borrowing, and increasing debt, the situation of the Nepalese tourism labour force seems very fragile. 
 
 {% maincolumn 'assets/img/charts/NextSixMonthsChallengesRnk1Dist.png' '' %}
+
+
+## Worker movement and skills loss
+{% maincolumn 'assets/img/charts/MovementSplit.png' '' %}
+
+
+{% maincolumn 'assets/img/charts/TempPermMigrationSplit.png' '' %}
+
+
+{% maincolumn 'assets/img/charts/TempEmployedSplit.png' '' %}
+{% maincolumn 'assets/img/charts/PermEmployedSplit.png' '' %}
+
+
+
+{% maincolumn 'assets/img/charts/PresentlyEmployedUnemployedSplit.png' '' %}
+
+{% maincolumn 'assets/img/charts/PresentlyEmployedJobSwitchSplit.png' '' %}
+
+
+
+## Effects on workers families
+
+
+
+{% maincolumn 'assets/img/charts/FamilyMoveNoMoveSplit.png' '' %}
+{% maincolumn 'assets/img/charts/TemporaryPermanentMovementSplit.png' '' %}
+
+
+
+
+{% maincolumn 'assets/img/charts/WitdhrawEducationDist.png' '' %}
+{% maincolumn 'assets/img/charts/WitdhrawHealthServiceDist.png' '' %}
+
+
+
+## Psychosocial effects
+
+{% maincolumn 'assets/img/charts/PsychologicallyAffectedDist.png' '' %}
+{% maincolumn 'assets/img/charts/PsychosocialEffectsMultiples2.png' '' %}
+{% maincolumn 'assets/img/charts/CounselingDist.png' '' %}
+
 <!-- {% maincolumn 'assets/img/charts/NextSixMonthsChallengesMultiples.png' '' %} -->
