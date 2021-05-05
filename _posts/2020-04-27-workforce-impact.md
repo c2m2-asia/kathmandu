@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How has COVID-19 affected the Nepali tourism workforce?"
+title: "Workforce impact and preparedness"
 date:   2021-04-27 09:46:04
 categories: jekyll css
 ---
@@ -102,7 +102,7 @@ Unsurprisingly -- and rather unfortunately -- immediate priorities of workers in
 
 
 
-## Effects on workers families
+<!-- ## Effects on workers families
 
 
 
@@ -113,7 +113,7 @@ Unsurprisingly -- and rather unfortunately -- immediate priorities of workers in
 
 
 {% maincolumn 'assets/img/charts/WitdhrawEducationDist.png' '' %}
-{% maincolumn 'assets/img/charts/WitdhrawHealthServiceDist.png' '' %}
+{% maincolumn 'assets/img/charts/WitdhrawHealthServiceDist.png' '' %} -->
 
 
 

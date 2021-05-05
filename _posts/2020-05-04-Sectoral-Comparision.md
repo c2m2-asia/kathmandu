@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Are some tourism sectors more affected than others?"
-date:   2021-04-27 09:46:04
+title: "Workkforce sectoral comparision"
+date:   2021-04-27 09:40:04
 categories: jekyll css
 ---
 

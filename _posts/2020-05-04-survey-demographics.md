@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The people behind the data: workforce survey demographics"
+title: "Workforce demographics"
 date:   2021-04-27 09:44:04
 categories: jekyll css
 ---
