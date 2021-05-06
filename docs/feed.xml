@@ -5,8 +5,8 @@
     <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 May 2021 08:56:24 -0400</pubDate>
-    <lastBuildDate>Thu, 06 May 2021 08:56:24 -0400</lastBuildDate>
+    <pubDate>Thu, 06 May 2021 09:02:35 -0400</pubDate>
+    <lastBuildDate>Thu, 06 May 2021 09:02:35 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -16,6 +16,9 @@
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizExpectedWorkforceChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizBiggestDifficultiesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Which of the following are likely to be your biggest difficulties in 2021? (Check all that apply)&lt;/p&gt;
+
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizBiggestDifficultiesMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizBiggestSupportDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
@@ -33,15 +36,18 @@
     
       <item>
         <title>Business needs</title>
-        <description>&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsBusinessProblemsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+        <description>&lt;p&gt;Within the next six months, which of the following problems will your business face? (Check all that apply)&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsBusinessProblemsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/MostHelpfulLoanPaybackDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/MostHelpfulFundsAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredSourceFinAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredTaxAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredOperatingCostAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredLaborAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredOutreachAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;What kind of policy level support from the government would be most helpful to your business? (Choose three most helpful measures for your business)&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PolicySupportMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
@@ -59,6 +65,7 @@
       <item>
         <title>Business impacts</title>
         <description>&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizOperationsShutDownSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizOperationsTempShutDownDurationSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizRevenueChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
@@ -82,6 +89,7 @@
         <description>&lt;p&gt;How the Nepali tourism workforce is thinking about its future.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BiggestChallengesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BiggestChallengesMultiple.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/HowLongEconRecoveryDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;

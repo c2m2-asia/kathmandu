@@ -12,6 +12,8 @@ How the Nepali tourism workforce is thinking about its future.
 
 
 {% maincolumn 'assets/img/charts/BiggestChallengesRnk1Dist.png' '' %}
+
+
 {% maincolumn 'assets/img/charts/BiggestChallengesMultiple.png' '' %}
 
 
