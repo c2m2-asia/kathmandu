@@ -5,9 +5,34 @@
     <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 May 2021 13:39:59 -0400</pubDate>
-    <lastBuildDate>Wed, 05 May 2021 13:39:59 -0400</lastBuildDate>
+    <pubDate>Thu, 06 May 2021 03:00:19 -0400</pubDate>
+    <lastBuildDate>Thu, 06 May 2021 03:00:19 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Business needs</title>
+        <description>&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsBusinessProblemsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/MostHelpfulLoanPaybackDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/MostHelpfulFundsAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredSourceFinAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredTaxAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredOperatingCostAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredLaborAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredOutreachAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PolicySupportMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
+        <link>/kathmandu-interim-report/articles/21/business-needs</link>
+        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/business-needs</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>css</category>
+        
+      </item>
     
       <item>
         <title>Workforce outlook</title>
