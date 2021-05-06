@@ -5,9 +5,31 @@
     <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 May 2021 03:00:19 -0400</pubDate>
-    <lastBuildDate>Thu, 06 May 2021 03:00:19 -0400</lastBuildDate>
+    <pubDate>Thu, 06 May 2021 08:56:24 -0400</pubDate>
+    <lastBuildDate>Thu, 06 May 2021 08:56:24 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Business outlook</title>
+        <description>&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizDisruptionLastDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizExpectedRevenueChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizExpectedWorkforceChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizBiggestDifficultiesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizBiggestDifficultiesMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizBiggestSupportDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
+        <link>/kathmandu-interim-report/articles/21/business-outlook</link>
+        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/business-outlook</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>css</category>
+        
+      </item>
     
       <item>
         <title>Business needs</title>
@@ -26,6 +48,27 @@
         <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
         <link>/kathmandu-interim-report/articles/21/business-needs</link>
         <guid isPermaLink="true">/kathmandu-interim-report/articles/21/business-needs</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>css</category>
+        
+      </item>
+    
+      <item>
+        <title>Business impacts</title>
+        <description>&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizOperationsShutDownSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizOperationsTempShutDownDurationSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizRevenueChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizWorkforceChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizSavingsChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+        <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
+        <link>/kathmandu-interim-report/articles/21/business-impacts</link>
+        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/business-impacts</guid>
         
         
         <category>jekyll</category>
