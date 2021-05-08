@@ -4,7 +4,8 @@ title: "Business outlook"
 date:   2021-04-27 09:46:04
 categories: jekyll css
 ---
-
+ 
+Change
 
 {% maincolumn 'assets/img/charts/BizDisruptionLastDist.png' '' %}
 {% maincolumn 'assets/img/charts/BizExpectedRevenueChangeDist.png' '' %}
