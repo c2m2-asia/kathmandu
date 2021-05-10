@@ -5,8 +5,8 @@
     <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 May 2021 05:44:07 -0400</pubDate>
-    <lastBuildDate>Mon, 10 May 2021 05:44:07 -0400</lastBuildDate>
+    <pubDate>Mon, 10 May 2021 09:03:31 -0400</pubDate>
+    <lastBuildDate>Mon, 10 May 2021 09:03:31 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -267,7 +267,7 @@
       </item>
     
       <item>
-        <title>Workforce impact and preparedness</title>
+        <title>Workforce impact </title>
         <description>&lt;p&gt;Insights shown in this page have been derived from the responses of 169 participants who took part in the C2M2 Workforce survey.&lt;/p&gt;
 
 &lt;h2 id=&quot;economic-effects&quot;&gt;Economic effects&lt;/h2&gt;
@@ -302,7 +302,7 @@
 &lt;h4 id=&quot;a-year-of-reduced-income&quot;&gt;A Year of reduced income&lt;/h4&gt;
 &lt;p&gt;63% of our workers who are presently employed have reported not seeing their earnings return to pre-pandemic levels for more than a year now (see graph below).&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LastDateFullSalaryDist2.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: This chart contains responses from &lt;strong&gt;only those respondents who are presently employed&lt;/strong&gt;. &lt;br /&gt; &lt;br /&gt; To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-pandemic levels since &amp;#8220;Before March 2020&amp;#8221;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LastDateFullSalaryDistPresentlyEmployed.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: This chart contains responses from &lt;strong&gt;only those respondents who are presently employed&lt;/strong&gt;. &lt;br /&gt; &lt;br /&gt; To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-pandemic levels since &amp;#8220;Before March 2020&amp;#8221;&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;It appears the situation is going to get even more difficult with the second wave approaching.&lt;/p&gt;
 
 &lt;h3 id=&quot;dealing-with-the-financial-impact&quot;&gt;Dealing with the financial impact&lt;/h3&gt;
@@ -337,14 +337,18 @@
 &lt;p&gt;Unsurprisingly – and rather unfortunately – immediate priorities of workers in the tourism industry seem to echo those of our ancestors in the stone age: food and shelter. The COVID-19 pandemic has really take a big economic toll on individuals. With reduced savings, few options for borrowing, and increasing debt, the situation of the Nepalese tourism labour force seems very fragile.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsChallengesMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;h2 id=&quot;worker-movement-and-skills-loss&quot;&gt;Worker movement and skills loss&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/MovementSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;skills-loss&quot;&gt;Skills loss&lt;/h2&gt;
+&lt;!-- &lt;figure&gt;&lt;img src='/kathmandu-interim-report/assets/img/charts/MovementSplit.png'/&gt;&lt;figcaption class='maincolumn-figure'&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/TempPermMigrationSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/TempEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PermEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src='/kathmandu-interim-report/assets/img/charts/TempPermMigrationSplit.png'/&gt;&lt;figcaption class='maincolumn-figure'&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+&lt;figure&gt;&lt;img src='/kathmandu-interim-report/assets/img/charts/TempEmployedSplit.png'/&gt;&lt;figcaption class='maincolumn-figure'&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src='/kathmandu-interim-report/assets/img/charts/PermEmployedSplit.png'/&gt;&lt;figcaption class='maincolumn-figure'&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+ --&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PresentlyEmployedUnemployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 

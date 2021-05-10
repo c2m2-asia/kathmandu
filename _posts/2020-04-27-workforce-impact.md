@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workforce impact and preparedness"
+title: "Workforce impact "
 date:   2021-04-27 09:46:04
 categories: jekyll css
 ---
@@ -42,7 +42,7 @@ A fifty-fifty split. Now, on to income losses. It appears pay cuts are more comm
 #### A Year of reduced income
 63% of our workers who are presently employed have reported not seeing their earnings return to pre-pandemic levels for more than a year now (see graph below).
 
-{% maincolumn 'assets/img/charts/LastDateFullSalaryDist2.png' 'Note: This chart contains responses from **only those respondents who are presently employed**. <br/> <br/> To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-pandemic levels since "Before March 2020"' %} 
+{% maincolumn 'assets/img/charts/LastDateFullSalaryDistPresentlyEmployed.png' 'Note: This chart contains responses from **only those respondents who are presently employed**. <br/> <br/> To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-pandemic levels since "Before March 2020"' %} 
 It appears the situation is going to get even more difficult with the second wave approaching.
 
 
@@ -82,10 +82,13 @@ Unfortunately, being in debt -- as our data shows -- is a very real possibility 
 Unsurprisingly -- and rather unfortunately -- immediate priorities of workers in the tourism industry seem to echo those of our ancestors in the stone age: food and shelter. The COVID-19 pandemic has really take a big economic toll on individuals. With reduced savings, few options for borrowing, and increasing debt, the situation of the Nepalese tourism labour force seems very fragile. 
 
 {% maincolumn 'assets/img/charts/NextSixMonthsChallengesRnk1Dist.png' '' %}
+{% maincolumn 'assets/img/charts/NextSixMonthsChallengesMultiples.png' '' %}
 
 
-## Worker movement and skills loss
-{% maincolumn 'assets/img/charts/MovementSplit.png' '' %}
+
+
+## Skills loss
+<!-- {% maincolumn 'assets/img/charts/MovementSplit.png' '' %}
 
 
 {% maincolumn 'assets/img/charts/TempPermMigrationSplit.png' '' %}
@@ -93,7 +96,7 @@ Unsurprisingly -- and rather unfortunately -- immediate priorities of workers in
 
 {% maincolumn 'assets/img/charts/TempEmployedSplit.png' '' %}
 {% maincolumn 'assets/img/charts/PermEmployedSplit.png' '' %}
-
+ -->
 
 
 {% maincolumn 'assets/img/charts/PresentlyEmployedUnemployedSplit.png' '' %}
