@@ -7,7 +7,7 @@ categories: jekyll css
 
 
 With 77% of businesses being closed at least once during the pandemic, majority of them reporting a revenue of almost zero in 2020, and most of the business houses falling into the COVID-induced debt for their survival, this section lists down these business’ expected interventions which they think will help them out of this predicaments.
-{% maincolumn 'assets/img/charts/NextSixMonthsBusinessProblemsMultiples.png' '' %}
+{% maincolumn 'assets/img/charts/NextSixMonthsBusinessProblemsMultiples.png' '<b>Within the next six months, which of the following problems will your business face?</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
 
 ### PRE-EXISTING BURDENS BECOME EVEN HEAVIER
 
@@ -47,7 +47,7 @@ For the businesses that will be seeking additional funds, two-thirds of them pre
 ### POLICY SUPPORT
 We asked all the respondents what types of government policies would be helpful for their businesses. Each business could choose upto three such policies.
 
-{% maincolumn 'assets/img/charts/PolicySupportMultiples.png' '' %}
+{% maincolumn 'assets/img/charts/PolicySupportMultiples.png' '<b>What kind of policy level support from the government would be most helpful to your business?</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
 
 Two-thirds of the respondents have reported ‘establishment of a tourism protection fund’ will help them better deal with this type of crisis. Half the respondents are seeking for better government policies around financial assistance. Only 13% marked ‘establishment of job retention fund’ as one of their top three choices.
 

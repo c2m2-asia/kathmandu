@@ -18,7 +18,7 @@ Similarly, the majority of the business owners expect their revenues to be affec
 
 These numbers suggest that even without the projection of impact due to the second wave, the business owners had a bleak outlook for their earnings. The second wave would likely exacerbate the situation even further. 
 
-{% maincolumn 'assets/img/charts/BizBiggestDifficultiesMultiples.png' '' %}
+{% maincolumn 'assets/img/charts/BizBiggestDifficultiesMultiples.png' '<b>Which of the following are likely to be your biggest difficulties in 2021?</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
 
 The biggest challenges for the business owners pertain to reviving the tourists’ confidence and managing finances. Around one third of the business owners expect that winning the confidence of tourists and guests is a major challenge. It could be that the business owners expect travelers to bide their time before making travel plans. Factors such as the rate of vaccination in a country, the availability of flights, the overall economic outlook in the origin countries/ places play a role in determining the flow of tourists. Similarly, the behavioral change required, shifting from a largely sedentary lockdown lifestyle to a more active travel lifestyle could also be another factor that could determine when travels resume. More research in this topic will likely reveal nuanced insights.
 

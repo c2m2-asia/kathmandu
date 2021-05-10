@@ -12,17 +12,17 @@ Immediate priorities of the Nepali tourism workforce.
 
 
 ### FINANCIAL NEEDS
-{% maincolumn 'assets/img/charts/FinancialNeedsMultiple.png' '' %}
+{% maincolumn 'assets/img/charts/FinancialNeedsMultiple.png' '<b>Which of the following forms of financial support will help you minimize the effects of the pandemic?</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
 
 
 
 ### HEALTH RELATED NEEDS
-{% maincolumn 'assets/img/charts/HealthNeedsMultiple.png' '' %}
+{% maincolumn 'assets/img/charts/HealthNeedsMultiple.png' '<b>Which of the following forms of health related support will help you minimize the effects of the pandemic?</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
 
 
 
 ### PROFESSIONAL NEEDS
-{% maincolumn 'assets/img/charts/ProfessionalNeedsMultiple.png' '' %}
+{% maincolumn 'assets/img/charts/ProfessionalNeedsMultiple.png' '<b>Which of the following forms of professional development support will help you minimize the effects of the pandemic?</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
 
 
 

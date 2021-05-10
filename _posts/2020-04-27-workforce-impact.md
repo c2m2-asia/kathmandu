@@ -82,7 +82,7 @@ Unfortunately, being in debt -- as our data shows -- is a very real possibility 
 Unsurprisingly -- and rather unfortunately -- immediate priorities of workers in the tourism industry seem to echo those of our ancestors in the stone age: food and shelter. The COVID-19 pandemic has really take a big economic toll on individuals. With reduced savings, few options for borrowing, and increasing debt, the situation of the Nepalese tourism labour force seems very fragile. 
 
 {% maincolumn 'assets/img/charts/NextSixMonthsChallengesRnk1Dist.png' '' %}
-{% maincolumn 'assets/img/charts/NextSixMonthsChallengesMultiples.png' '' %}
+{% maincolumn 'assets/img/charts/NextSixMonthsChallengesMultiples.png' '<b>Which of the following are some challenges you are likely to face in the next 6 months?</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
 
 
 
@@ -123,7 +123,7 @@ Unsurprisingly -- and rather unfortunately -- immediate priorities of workers in
 ## Psychosocial effects
 
 {% maincolumn 'assets/img/charts/PsychologicallyAffectedDist.png' '' %}
-{% maincolumn 'assets/img/charts/PsychosocialEffectsMultiples2.png' '' %}
+{% maincolumn 'assets/img/charts/PsychosocialEffectsMultiples.png' '<b>Pychosocial effects of the pandemic</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
 {% maincolumn 'assets/img/charts/CounselingDist.png' '' %}
 
 <!-- {% maincolumn 'assets/img/charts/NextSixMonthsChallengesMultiples.png' '' %} -->
