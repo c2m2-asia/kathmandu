@@ -161,17 +161,17 @@ html { text-align: baseline; font-size: 11px; -webkit-font-smoothing: antialiase
 
 .mjx-math { font-size: 1.3rem; }
 
-a { color: #a00000; text-decoration: none; }
+a { color: #AC2020; text-decoration: none; }
 
-p > a, cite > a, span > a { color: #444; text-decoration: none; background: -webkit-linear-gradient(#f0f0f0, #f0f0f0), -webkit-linear-gradient(#f0f0f0, #f0f0f0), -webkit-linear-gradient(currentColor, currentColor); background: linear-gradient(#f0f0f0, #f0f0f0), linear-gradient(#f0f0f0, #f0f0f0), linear-gradient(currentColor, currentColor); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #f0f0f0, -0.03em 0 #f0f0f0, 0 0.03em #f0f0f0, 0 -0.03em #f0f0f0, 0.06em 0 #f0f0f0, -0.06em 0 #f0f0f0, 0.09em 0 #f0f0f0, -0.09em 0 #f0f0f0, 0.12em 0 #f0f0f0, -0.12em 0 #f0f0f0, 0.15em 0 #f0f0f0, -0.15em 0 #f0f0f0; background-position: 0% 93%, 100% 93%, 0% 93%; }
+p > a, cite > a, span > a { color: rgba(0, 0, 0, 0.8); text-decoration: none; background: -webkit-linear-gradient(#fff9fb, #fff9fb), -webkit-linear-gradient(#fff9fb, #fff9fb), -webkit-linear-gradient(currentColor, currentColor); background: linear-gradient(#fff9fb, #fff9fb), linear-gradient(#fff9fb, #fff9fb), linear-gradient(currentColor, currentColor); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fff9fb, -0.03em 0 #fff9fb, 0 0.03em #fff9fb, 0 -0.03em #fff9fb, 0.06em 0 #fff9fb, -0.06em 0 #fff9fb, 0.09em 0 #fff9fb, -0.09em 0 #fff9fb, 0.12em 0 #fff9fb, -0.12em 0 #fff9fb, 0.15em 0 #fff9fb, -0.15em 0 #fff9fb; background-position: 0% 93%, 100% 93%, 0% 93%; }
 
-body { width: 87.5%; margin-left: auto; margin-right: auto; padding-left: 12.5%; font-family: "Goudy Bookletter 1911", "Chronicle Text G2", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; background-color: #f0f0f0; color: #444; max-width: 1400px; counter-reset: sidenote-counter; }
+body { width: 87.5%; margin-left: auto; margin-right: auto; padding-left: 12.5%; font-family: "EB Garamond", "Goudy Bookletter 1911", "Chronicle Text G2", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; background-color: #fff9fb; color: rgba(0, 0, 0, 0.8); max-width: 1400px; counter-reset: sidenote-counter; }
 
 h1 { font-weight: 400; margin-top: 1.568rem; margin-bottom: 1.568rem; font-size: 2.5rem; line-height: 0.784; }
 
 h2 { font-weight: 400; letter-spacing: 0.08rem; margin-top: 1.866666666666667rem; margin-bottom: 0; font-size: 1.9rem; line-height: 0.933333333333333; }
 
-h3 { font-weight: 700; font-size: 1.1rem; letter-spacing: 0.08rem; color: #a00000; text-transform: uppercase; margin-top: 2.1777777777777778rem; margin-bottom: 0; line-height: 1.08888888888889; font-family: "Roboto", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Roboto", Calibri, sans-serif; }
+h3 { font-weight: 700; font-size: 1.1rem; letter-spacing: 0.08rem; color: #AC2020; text-transform: uppercase; margin-top: 2.1777777777777778rem; margin-bottom: 0; line-height: 1.08888888888889; font-family: "Roboto", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Roboto", Calibri, sans-serif; }
 
 h4 { font-weight: 700; font-size: 0.9rem; letter-spacing: 0.08rem; color: #444; text-transform: uppercase; margin-top: 2.1777777777777778rem; margin-bottom: 0; line-height: 1.08888888888889; font-family: "Roboto", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Roboto", Calibri, sans-serif; }
 
@@ -254,11 +254,11 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79%; }
 
 .sidenote-number { counter-increment: sidenote-counter; }
 
-.sidenote-number:after, .sidenote:before { content: counter(sidenote-counter) " "; font-family: et-bembo-roman-old-style; color: #a00000; position: relative; vertical-align: baseline; }
+.sidenote-number:after, .sidenote:before { content: counter(sidenote-counter) " "; font-family: et-bembo-roman-old-style; color: #AC2020; position: relative; vertical-align: baseline; }
 
 .sidenote-number:after { content: counter(sidenote-counter); font-size: 1rem; top: -0.5rem; left: 0.1rem; }
 
-.sidenote:before { content: counter(sidenote-counter) ". "; color: #a00000; top: 0rem; }
+.sidenote:before { content: counter(sidenote-counter) ". "; color: #AC2020; top: 0rem; }
 
 p, footer, div.table-wrapper, .MJXc-display { width: 55%; }
 
@@ -282,17 +282,17 @@ label.sidenote-number { display: inline; }
 
 label.margin-toggle:not(.sidenote-number) { display: none; }
 
-@media (max-width: 760px) { label.margin-toggle:not(.sidenote-number) { display: inline; color: #a00000; } .sidenote, .marginnote { display: none; } .margin-toggle:checked + .sidenote, .margin-toggle:checked + .marginnote { display: block; float: left; left: 1rem; clear: both; width: 95%; margin: 1rem 2.5%; vertical-align: baseline; position: relative; } label { cursor: pointer; } pre, pre code, p code, p pre code { width: 90%; padding: 0; } .table-caption { display: block; float: right; clear: both; width: 98%; margin-top: 1rem; margin-bottom: 0.5rem; margin-left: 1%; margin-right: 1%; vertical-align: baseline; position: relative; } div.table-wrapper, table, table.booktabs { width: 85%; } div.table-wrapper { border-right: 1px solid #efefef; } img { max-width: 100%; } figcaption.maincolumn-figure, figure.fullwidth figcaption { float: none; text-align: center; } figure.fullwidth figcaption { margin-left: 0; } }
+@media (max-width: 760px) { label.margin-toggle:not(.sidenote-number) { display: inline; color: #AC2020; } .sidenote, .marginnote { display: none; } .margin-toggle:checked + .sidenote, .margin-toggle:checked + .marginnote { display: block; float: left; left: 1rem; clear: both; width: 95%; margin: 1rem 2.5%; vertical-align: baseline; position: relative; } label { cursor: pointer; } pre, pre code, p code, p pre code { width: 90%; padding: 0; } .table-caption { display: block; float: right; clear: both; width: 98%; margin-top: 1rem; margin-bottom: 0.5rem; margin-left: 1%; margin-right: 1%; vertical-align: baseline; position: relative; } div.table-wrapper, table, table.booktabs { width: 85%; } div.table-wrapper { border-right: 1px solid #efefef; } img { max-width: 100%; } figcaption.maincolumn-figure, figure.fullwidth figcaption { float: none; text-align: center; } figure.fullwidth figcaption { margin-left: 0; } }
 
 /*--- End of Basic Layout stuff from tufte.css ---*/
 /* -- Jekyll specific styling --*/
-.contrast { color: #a00000; }
+.contrast { color: #AC2020; }
 
 .smaller { font-size: 80%; }
 
 header > nav.group, body footer { width: 95%; padding-top: 2rem; }
 
-nav.group a.active { color: #a00000; }
+nav.group a.active { color: #AC2020; }
 
 header > nav a { font-size: 1.2rem; font-family: "Roboto", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Roboto", Calibri, sans-serif; letter-spacing: 0.15em; text-transform: uppercase; color: #999; padding-top: 1.5rem; text-decoration: none; display: inline-block; float: left; margin-top: 0; margin-bottom: 0; padding-right: 2rem; vertical-align: baseline; }
 
@@ -306,7 +306,7 @@ ul.footer-links li { display: inline; padding: 0.5rem 0.25rem; }
 
 .credits { font-family: "Roboto", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Roboto", Calibri, sans-serif; }
 
-.credits a { color: #a00000; }
+.credits a { color: #AC2020; }
 
 body.full-width, .content-listing, ul.content-listing li.listing { width: 100%; margin-left: auto; margin-right: auto; padding: 0% 0%; }
 

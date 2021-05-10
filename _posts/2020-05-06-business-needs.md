@@ -7,14 +7,13 @@ categories: jekyll css
 
 
 With 77% of businesses being closed at least once during the pandemic, majority of them reporting a revenue of almost zero in 2020, and most of the business houses falling into the COVID-induced debt for their survival, this section lists down these business’ expected interventions which they think will help them out of this predicaments.
+{% maincolumn 'assets/img/charts/NextSixMonthsBusinessProblemsMultiples.png' '' %}
 
 ### PRE-EXISTING BURDENS BECOME EVEN HEAVIER
 
-Two-thirds of the businesses reported that they will face difficulties in paying back their existing loans. 
-{% maincolumn 'assets/img/charts/NextSixMonthsBusinessProblemsMultiples.png' '' %}
+Two-thirds of the businesses reported that they will face difficulties in paying back their existing loans. These 58 businesses, when asked to choose the type of assistance that will help them pay off their debts, 59% reported they prefer reduced interest loans whereas 41% prefer to have their loan payback periods extended instead.
 
-When asked to choose the type of assistance that will help them pay off their debts, XXXXXX% reported they prefer reduced interest loans whereas YYYYYYY% prefer to have their loan payback periods extended instead.
-
+{% maincolumn 'assets/img/charts/MostHelpfulLoanPaybackDist.png' '' %}
 
 #### CUSTOMERS WILL BE KING - MORE THAN EVER BEFORE
 Two-thirds of the businesses also reported that acquiring enough customers to survive will be a major issue for the next six months.
@@ -23,7 +22,7 @@ Two-thirds of the businesses also reported that acquiring enough customers to su
 {% maincolumn 'assets/img/charts/PreferredOutreachAssistanceDist.png' '' %}
 
 #### TAXES
-55% of businesses also reported that paying taxes will be a big burden for them by the next six months. Their preferred ways of loan repayments are
+55% of businesses also reported that paying taxes will be a big burden for them by the next six months. Their preferred ways of tax repayments are
 {% maincolumn 'assets/img/charts/PreferredTaxAssistanceDist.png' '' %}
 
 42% of businesses prefer the amount of taxes to be reduced, whereas 29% of businesses think that direct VAT return is the best intervention for them. Businesses are not very keen on deferring taxes or just exemption of fine on taxes.
@@ -35,8 +34,9 @@ Incidentally, almost three-fourths of the respondents prefer to receive financia
 {% maincolumn 'assets/img/charts/PreferredSourceFinAssistanceDist.png' '' %}
 
 For the businesses that will be seeking additional funds, two-thirds of them prefer longer-term subsidized loans whereas only one-third prefer short-term loans without collateral.
-{% maincolumn 'assets/img/charts/MostHelpfulLoanPaybackDist.png' '' %}
 
+
+{% maincolumn 'assets/img/charts/MostHelpfulFundsAssistanceDist.png' '' %}
 
 #### LABOR
 28% of businesses have reported that they anticipate to face labor-related issues within the next six months. However, only 8% of these businesses anticipate that access to skilled/semi-skilled workers will be their major issue. 44% said that a government policy to not increase minimum wage rates for their next some time will be most helpful to them. On the other hand, a sizable proportion of businesses (48%) see vaccinating their employees as a major concern for them.

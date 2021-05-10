@@ -5,25 +5,32 @@
     <description></description>
     <link>/kathmandu-interim-report/</link>
     <atom:link href="/kathmandu-interim-report/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 May 2021 07:11:47 -0400</pubDate>
-    <lastBuildDate>Sun, 09 May 2021 07:11:47 -0400</lastBuildDate>
+    <pubDate>Mon, 10 May 2021 04:03:12 -0400</pubDate>
+    <lastBuildDate>Mon, 10 May 2021 04:03:12 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Workforce outlook</title>
-        <description>&lt;p&gt;This page presents the torism workfoce outlook, i.e. &lt;em&gt;how the Nepali tourism workforce is thinking about its future.&lt;/em&gt;&lt;/p&gt;
+        <description>&lt;p&gt;This section explores the expectations of the workers regarding the length of impact, the challenges for recovery, and the impact on employment status in future. While the business owners expected the impact to last for short term (less than a year), majority of the workers expect the impact to last for short (less than a year) and medium term (upto two years). The workers and the business owners align in their views regarding the challenges. They mention that gaining back the trust of the tourists along with the financial issues are the major obstacles for recovery. Finally, the majority of the workers (around sixty percent) are uncertain as to when the situation would get back to normal. This uncertainty has taken both financial and mental toll on the workers- as evident in the other sections of the survey.&lt;/p&gt;
 
-&lt;p&gt;This is a &lt;a href=&quot;https://markdownlivepreview.com/&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/HowLongEconRecoveryDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BiggestChallengesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;This is an example of a sidenote&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;An overwhelming majority of the workers expect the impact of the pandemic to last for mid and long term. Around one in three workers expect their livelihood to be impacted for anywhere between six months to a year. Similarly another third expect the impact to last between one and two years. More than a quarter of the workforce expect the impact to last for a long-term, i.e. beyond a duration of two years.  The numbers suggest that even without a second wave, the impact on workers’ livelihood is already significant. The second wave would likely worsen the impact on the workers.&lt;/p&gt;
+
+&lt;p&gt;From the workers’ perspective, ensuring health, hygiene, and safety standards is one of the major challenges for the recovery of the sector. More than eight in ten workers identified this as a major challenge. As a service sector, which requires close interaction with the clients, it is a challenge to ensure the safety of both the personnel and the visitors.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BiggestChallengesMultiple.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;We also asked our respondents how they feel about the future, specifically, how long the present situation is going to last, and how long it will take for them to bouce back.&lt;/p&gt;
+&lt;p&gt;Similarly, the current reduction in the number of tourists and the ensuing challenge to gain the trust back were also cited as major challenges. More than one third of workers responded that reduction in the number of tourists is a concern. As the inflow of tourists is instrumental to keep the businesses afloat, reduction in the number makes it difficult for business operations. As a result, the workers are impacted directly when the operations are impacted. This is only one side of the story though. Gaining the trust of the tourists- that the travel destination is safe or that it is safe to travel in general- is also a major challenge. The business owners also highlight similar concerns.&lt;/p&gt;
 
-&lt;p&gt;This is a new paragraph I saterted for illustrative purposes.&lt;/p&gt;
+&lt;p&gt;Financial issues that have hit the industry is another challenge the workers highlighted. Almost two-thirds of the workers mention this as a matter of concern. The finances are closely linked to the flow of tourists, including the perception regarding safety, and the ability to gain the trust back. The financial concerns do not just pertain to the business operations but also to the daily livelihood of the workers. The workers, who are facing financial challenges, have to resort to alternatives- including permanent switch of sectors. This would impact the availability of the workforce- both in the current state and once when the travel resumes.&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/HowLongEconRecoveryDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Not surprisingly, when asked to rank the overall challenges, the workers ranked reduction in tourists, ensuring health, hygiene, and safety standards, and financial challenges as the three major challenges the industry faces.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BiggestChallengesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;This is an example of a sidenote&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;The survey suggests that the uncertainty regarding return to “normalcy” will linger. More than three in five workers are uncertain as to when their employment status is likely to return to normal. This uncertainty could be influenced by a number of factors such as perception of the impact due to COVID. Workers who were unemployed during the majority of 2020 might be more pessimistic than those who kept their employment in some form. Said that there is also some optimism in the workers’ group. Around three in ten expect their employment status to return to normal within a year. However, it is yet to be assessed if this optimism would persist in the face of the second wave.&lt;/p&gt;
+
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/HowLongEmplymntRecoveryDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 </description>
@@ -39,46 +46,83 @@
       </item>
     
       <item>
+        <title>Business actions</title>
+        <description>&lt;h3 id=&quot;what-hurt-businesses&quot;&gt;WHAT HURT BUSINESSES&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizMostDamagingFactorsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;what-hurt-the-most&quot;&gt;WHAT HURT THE MOST?&lt;/h4&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizMostDamagingFactorsRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;workforce-actions&quot;&gt;WORKFORCE ACTIONS&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizWorkforceActionsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;borrowing&quot;&gt;Borrowing&lt;/h3&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/LoanNoLoanSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizLoanActionsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;asset-liquidity&quot;&gt;Asset liquidity&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/TrySellNoTrySellSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizAssetActionsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;investments-and-costs&quot;&gt;Investments and costs&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/VnInvestmentSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizCostActionsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;location-location-location&quot;&gt;Location, location, location&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/TryMoveNoTryMoveSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizLocationActionsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;operations&quot;&gt;OPERATIONS&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/ShutNoShutSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;equity-and-ownership&quot;&gt;EQUITY AND ownership&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/TrySellBizOrNotSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizSellActionsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/TrySellEquityOrNotSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizEquityActionsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/EquityOwnSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
+        <link>/kathmandu-interim-report/articles/21/business-actions</link>
+        <guid isPermaLink="true">/kathmandu-interim-report/articles/21/business-actions</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>css</category>
+        
+      </item>
+    
+      <item>
         <title>Business outlook</title>
         <description>&lt;p&gt;This section presents the findings related to the future outlook of the industry. It explores the expectation of the owners pertaining to the length of disruptions, the impact on their income, and the challenges the businesses are facing. The survey finds that the majority of the business owners expect the disruptions to last for around a year. More than twenty percent of the businesses expect to have no or little income compared to 2019. Similarly, challenges related to gaining back trust and managing finances surface prominently among the business owners.&lt;/p&gt;
 
-&lt;h3 id=&quot;government-a-key-figure&quot;&gt;Government a key figure&lt;/h3&gt;
-
-&lt;p&gt;Majority of the business owners have expectations from the government to take a central role support their businesses. More than one in two business owners expect government agencies such as ministries, Department of Tourism, and the Tourism Board, among other departments, to provide support. Our preliminary research suggests that they pertain to eco-system level support such as ease of travel for tourists (limited or no quarantine period for travelers with negative PCR tests), tax-subsidies for businesses, utility subsidies, and access to emergency funds and grants. Around one in four business owners also expect support from financial institutions and unions and associations. The support from the financial institutions would be instrumental in helping sustain the operations and that from the associations would be important in voicing the concerns of businesses to the government entities.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizBiggestSupportDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p&gt;The role of informal networks such as friends and family is also important to sustain the businesses. One in ten business owners expect their family and friends to support their ventures. This number seems low compared to the informal discussions and research the C2M2 team conducted &lt;label for=&quot;One&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;One&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;Citation needed &lt;/span&gt;. This could be because of multiple reasons. The owners could have exhausted support from informal sources in early months of impact, thus leaving them with little space to return to the same sources for support. It could also be that the owners have limited social capital to rely on. Further research on this topic would yield more nuanced insights for the policymakers as to the role of informal networks and institutions in supporting businesses during the times of COVID.&lt;/p&gt;
-
-&lt;h3 id=&quot;an-even-difficult-next-year&quot;&gt;An even DIFFICULT NEXT YEAR&lt;/h3&gt;
-&lt;p&gt;Majority of the business owners, around sixty five percent, expected the disruption to last less than a year.&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizDisruptionLastDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;Only around one in ten business owners expected the disruption to last for more than two year. It is evident that during the time of the survey, the majority of the business owners did not envision the second wave of COVID-19 to impact their business. These estimates could likely change given the second wave that has hit Nepal and the ensuing government imposed lockdown and travel restrictions, including suspension of international flights.&lt;/p&gt;
+&lt;p&gt;Majority of the business owners, around sixty five percent, expected the disruption to last less than a year. Only around one in ten business owners expected the disruption to last for more than two year. It is evident that during the time of the survey, the majority of the business owners did not envision the second wave of COVID-19 to impact their business. These estimates could likely change given the second wave that has hit Nepal and the ensuing government imposed lockdown and travel restrictions, including suspension of international flights.&lt;/p&gt;
 
-&lt;h3 id=&quot;revenue-outlook&quot;&gt;REVENUE OUTLOOK&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizExpectedRevenueChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;p&gt;Similarly, the majority of the business owners expect their revenues to be affected during 2021, which aligns with their expectation of how long the impact of COVID-19 will last. More than two in five business owners expect to earn no or negligible income in 2021. Only around one in ten, twelve percent, business owners expect the income level to be at similar or a higher level than that of 2019.&lt;/p&gt;
 
 &lt;p&gt;These numbers suggest that even without the projection of impact due to the second wave, the business owners had a bleak outlook for their earnings. The second wave would likely exacerbate the situation even further.&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizExpectedRevenueChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;workforce-outlook&quot;&gt;WorkForce Outlook&lt;/h3&gt;
-
-&lt;p&gt;This section explores the expectations of the workers regarding the length of impact, the challenges for recovery, and the impact on employment status in future. While the business owners expected the impact to last for short term (less than a year), majority of the workers expect the impact to last for short (less than a year) and medium term (upto two years). The workers and the business owners align in their views regarding the challenges. They mention that gaining back the trust of the tourists along with the financial issues are the major obstacles for recovery. Finally, the majority of the workers (around sixty percent) are uncertain as to when the situation would get back to normal. This uncertainty has taken both financial and mental toll on the workers- as evident in the other sections of the survey.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizExpectedWorkforceChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;challenge&quot;&gt;CHALLENGE&lt;/h3&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizBiggestDifficultiesMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;The biggest challenges for the business owners pertain to reviving the tourists’ confidence and managing finances. Around one third of the business owners expect that winning the confidence of tourists and guests is a major challenge. It could be that the business owners expect travelers to bide their time before making travel plans. Factors such as the rate of vaccination in a country, the availability of flights, the overall economic outlook in the origin countries/ places play a role in determining the flow of tourists. Similarly, the behavioral change required, shifting from a largely sedentary lockdown lifestyle to a more active travel lifestyle could also be another factor that could determine when travels resume. More research in this topic will likely reveal nuanced insights.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizBiggestDifficultiesRnk1Dist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;p&gt;The second and third biggest difficulties of the business owners pertain to managing finances. Around one third are concerned about a shortage of cash flow to sustain their operations. The shortage of access to loans and additional funds compounds this shortage of cash. One in five business owners also mention that accessing additional resources is a major concern for them.&lt;/p&gt;
 
-&lt;p&gt;Which of the following are likely to be your biggest difficulties in 2021? (Check all that apply)&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/BizBiggestSupportDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
+&lt;p&gt;Majority of the business owners have expectations from the government to take a central role support their businesses. More than one in two business owners expect government agencies such as ministries, Department of Tourism, and the Tourism Board, among other departments, to provide support. Our preliminary research suggests that they pertain to eco-system level support such as ease of travel for tourists (limited or no quarantine period for travelers with negative PCR tests), tax-subsidies for businesses, utility subsidies, and access to emergency funds and grants. Around one in four business owners also expect support from financial institutions and unions and associations. The support from the financial institutions would be instrumental in helping sustain the operations and that from the associations would be important in voicing the concerns of businesses to the government entities.&lt;/p&gt;
+
+&lt;p&gt;The role of informal networks such as friends and family is also important to sustain the businesses. One in ten business owners expect their family and friends to support their ventures. This number seems low compared to the informal discussions and research the C2M2 team conducted. This could be because of multiple reasons. The owners could have exhausted support from informal sources in early months of impact, thus leaving them with little space to return to the same sources for support. It could also be that the owners have limited social capital to rely on. Further research on this topic would yield more nuanced insights for the policymakers as to the role of informal networks and institutions in supporting businesses during the times of COVID. 
+&lt;!-- &lt;figure&gt;&lt;img src='/kathmandu-interim-report/assets/img/charts/BizExpectedWorkforceChangeDist.png'/&gt;&lt;figcaption class='maincolumn-figure'&gt;&lt;/figcaption&gt;&lt;/figure&gt; --&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Apr 2021 05:46:04 -0400</pubDate>
         <link>/kathmandu-interim-report/articles/21/business-outlook</link>
@@ -94,13 +138,13 @@
       <item>
         <title>Business needs</title>
         <description>&lt;p&gt;With 77% of businesses being closed at least once during the pandemic, majority of them reporting a revenue of almost zero in 2020, and most of the business houses falling into the COVID-induced debt for their survival, this section lists down these business’ expected interventions which they think will help them out of this predicaments.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsBusinessProblemsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;pre-existing-burdens-become-even-heavier&quot;&gt;PRE-EXISTING BURDENS BECOME EVEN HEAVIER&lt;/h3&gt;
 
-&lt;p&gt;Two-thirds of the businesses reported that they will face difficulties in paying back their existing loans.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/NextSixMonthsBusinessProblemsMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Two-thirds of the businesses reported that they will face difficulties in paying back their existing loans. These 58 businesses, when asked to choose the type of assistance that will help them pay off their debts, 59% reported they prefer reduced interest loans whereas 41% prefer to have their loan payback periods extended instead.&lt;/p&gt;
 
-&lt;p&gt;When asked to choose the type of assistance that will help them pay off their debts, XXXXXX% reported they prefer reduced interest loans whereas YYYYYYY% prefer to have their loan payback periods extended instead.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/MostHelpfulLoanPaybackDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;customers-will-be-king---more-than-ever-before&quot;&gt;CUSTOMERS WILL BE KING - MORE THAN EVER BEFORE&lt;/h4&gt;
 &lt;p&gt;Two-thirds of the businesses also reported that acquiring enough customers to survive will be a major issue for the next six months.&lt;/p&gt;
@@ -109,7 +153,7 @@
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredOutreachAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;taxes&quot;&gt;TAXES&lt;/h4&gt;
-&lt;p&gt;55% of businesses also reported that paying taxes will be a big burden for them by the next six months. Their preferred ways of loan repayments are&lt;/p&gt;
+&lt;p&gt;55% of businesses also reported that paying taxes will be a big burden for them by the next six months. Their preferred ways of tax repayments are&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredTaxAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;42% of businesses prefer the amount of taxes to be reduced, whereas 29% of businesses think that direct VAT return is the best intervention for them. Businesses are not very keen on deferring taxes or just exemption of fine on taxes.&lt;/p&gt;
@@ -121,7 +165,8 @@
 &lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/PreferredSourceFinAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;For the businesses that will be seeking additional funds, two-thirds of them prefer longer-term subsidized loans whereas only one-third prefer short-term loans without collateral.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/MostHelpfulLoanPaybackDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&quot;/kathmandu-interim-report/assets/img/charts/MostHelpfulFundsAssistanceDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h4 id=&quot;labor&quot;&gt;LABOR&lt;/h4&gt;
 &lt;p&gt;28% of businesses have reported that they anticipate to face labor-related issues within the next six months. However, only 8% of these businesses anticipate that access to skilled/semi-skilled workers will be their major issue. 44% said that a government policy to not increase minimum wage rates for their next some time will be most helpful to them. On the other hand, a sizable proportion of businesses (48%) see vaccinating their employees as a major concern for them.&lt;/p&gt;
