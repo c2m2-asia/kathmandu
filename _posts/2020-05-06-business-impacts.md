@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Business impacts"
-date:   2021-04-27 09:46:04
+date:   2021-05-09 09:42:04
 categories: jekyll css
 ---
 
@@ -34,13 +34,3 @@ Consequently, the overall workforce size took a major hit. 37% of the workforce 
 
 
 
-{% maincolumn 'assets/img/charts/BizMostDamagingFactorsRnk1Dist.png' '' %}
-{% maincolumn 'assets/img/charts/BizMostDamagingFactorsMultiples.png' '' %}
-
-
-{% maincolumn 'assets/img/charts/BizWorkforceActionsMultiples.png' '' %}
-{% maincolumn 'assets/img/charts/BizLoanActionsMultiples.png' '' %}
-{% maincolumn 'assets/img/charts/BizAssetActionsMultiples.png' '' %}
-{% maincolumn 'assets/img/charts/BizCostActionsMultiples.png' '' %}
-{% maincolumn 'assets/img/charts/BizLocationActionsMultiples.png' '' %}
-{% maincolumn 'assets/img/charts/BizEquityActionsMultiples.png' '' %}
