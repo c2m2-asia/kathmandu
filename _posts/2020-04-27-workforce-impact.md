@@ -123,7 +123,18 @@ Unsurprisingly -- and rather unfortunately -- immediate priorities of workers in
 ## Psychosocial effects
 
 {% maincolumn 'assets/img/charts/PsychologicallyAffectedDist.png' '' %}
+
+As the COVID-19 pandemic sweeps across the world, people globally have reported an increase in issues pertaining to their mental health and psychosocial wellbeing. The same has been seen among the tourism workers{% sidenote 'Two' '"My energy to work more, take tourism to new heights has died. I used to donate 5% of my income to charity and now I dont feel like working anymore. Rather, dont even feel like talking."' '' %}. Almost all the workers have reported some form of effects on their mental health and psychosocial wellbeing. Our in-person interviews have reflected the same pattern, the causes seem to be the lockdown and dwindling finances. 
+
+Digging deep, the majority of the workers say that they find it difficult not to think about the situation and feel increased social pressure{% sidenote 'Two' '"The income was great, so the impression in family was good too. Now, the situation has changed."' '' %}. Other effects are an increase in anxiousness, nightmares, and guilt. Such psychological impacts transition into social relationships including one’s relationship with the family members and other people around them. Given that this is a multiple-choice question, such feelings are overlapping among the respondent workers. 
+
+
+
 {% maincolumn 'assets/img/charts/PsychosocialEffectsMultiples.png' '<b>Pychosocial effects of the pandemic</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
+
+Despite almost all the workers reporting some form of effect on their mental health and psychosocial wellbeing, only a fraction reportedly sought medical help{% sidenote 'Two' 'Most of the respondents of our in-person interviews reported some form of effects on their mental health. Most, however, opted for informal coping mechanisms including meditation, yoga and music classes.' '' %}.
+
+
 {% maincolumn 'assets/img/charts/CounselingDist.png' '' %}
 
 <!-- {% maincolumn 'assets/img/charts/NextSixMonthsChallengesMultiples.png' '' %} -->

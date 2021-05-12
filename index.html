@@ -1,18 +1,48 @@
 ---
 layout: default
 title: Home
-
 ---
 
-  <ul class="content-listing ">
-    {% for post in site.posts %}      
-        <li class="listing" style="max-width:650px">
-          <!-- <hr class="slender"> -->
-          <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="contrast">{{ post.title }}</h2></a>
-          <span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
-          <br>
-          <div style="max-width:60vw">{{ post.excerpt | strip_html | truncate: 100 }}</div> 
-        </li>
-        <br/>
-    {% endfor %}
-  </ul>
+
+
+<h3 class="mb-2">DATA REPORTS</h3>
+
+<div class="row">
+  <div class="col-md-8">
+    <div class="row">
+      {% for post in site.posts %}
+      <div class="col-md-9 mb-5">
+
+        <a class="custom-story-title" href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title }}
+        </a>
+        <p class="custom-story-desc" >{{ post.excerpt | strip_html | truncate: 200 }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+
+</div>
+
+
+<h3 class="mb-2">STORIES FROM THE GROUND</h3>
+<!-- <p class="mb-5" style="font-size: 2rem; line-height: unset;">Tourism in the third largest employer in Nepal. We sta down and talked with people who've spent their lives in tourism. What follows below is collection of stories from Kathamandu's tourism sector, a post-pandemic pulse of the tourism sector.</p> -->
+<div class="row">
+  <div class="col-md-8">
+    <div class="row">
+      {% for story in site.stories %}
+      <div class="col-md-9 mb-5">
+
+        <a class="custom-story-title" href="{{ story.url | prepend: site.baseurl }}">
+          {{ story.title }}.
+        </a>
+        <p class="custom-story-desc" >{{ story.excerpt | strip_html | truncate: 200 }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+
+</div>
+

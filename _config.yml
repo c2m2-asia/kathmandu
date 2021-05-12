@@ -15,6 +15,11 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'REA
 post:
   template: _post.txt
   extension: md
+collections:
+  stories:
+    output: true
+  dives:
+    output: true
 page:
   template: _page.txt
   extension: md
