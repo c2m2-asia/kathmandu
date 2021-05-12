@@ -398,6 +398,8 @@ ul.footer-links, .credits { color: rgba(20, 20, 20, 0.4); text-align: left; marg
 
 .custom-nav-logo { color: rgba(20, 20, 20, 0.7); font-family: 'Source Sans Pro'; letter-spacing: unset; font-size: 1.4rem; text-transform: uppercase; letter-spacing: 3px; font-weight: 700; margin: 0; max-width: 70vw; line-height: 2rem; }
 
+.custom-nav-a { color: rgba(20, 20, 20, 0.7); font-weight: 700; }
+
 .custom-story-title { font-size: 1.9rem; color: rgba(0, 0, 0, 0.8); font-family: 'Playfair Display'; font-weight: 600; }
 
 .custom-story-title:hover { color: #AC2020; transition: 0.4s ease-in; }
@@ -405,5 +407,7 @@ ul.footer-links, .credits { color: rgba(20, 20, 20, 0.4); text-align: left; marg
 .custom-story-desc { margin-top: 4px; margin-bottom: 20px; width: 100%; font-weight: 400; }
 
 a:hover { color: unset; }
+
+.custom-large-text { font-family: 'Playfair Display'; font-size: 2.5rem; line-height: 1.2; }
 
 /*# sourceMappingURL=tufte.css.map */
