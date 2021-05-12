@@ -5,6 +5,7 @@ date:   2021-05-09 09:42:04
 categories: jekyll css
 ---
 
+{%newthought 'Tourism business have suffered enormously during the pandemic.'%}
 The following section gives a peek into the impacts of the COVID-19 on the tourism businesses of Kathmandu.  
 
 ### A HUGE LOSS
