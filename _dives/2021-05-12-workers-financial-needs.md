@@ -1,0 +1,42 @@
+---
+layout: dive
+author: "Arogya Koirala, Sazal Sthapit, and Aishworya Shrestha"
+title: "What we learned about the financial needs of tourism workers."
+date: 2021-05-09 09:42:04
+categories: jekyll css
+---
+
+Our ongoing survey for members of the Nepali tourism workforce provides useful insight into their immediate financial needs and some underlying reasons behind these needs.
+
+We asked our participants about the kinds of financial support they would need to deal with the pandemic and its effects. Participants were provided a set of options to choose from. Multiple selections were allowed. Here’s how they responded.
+
+{% maincolumn 'assets/img/charts/FinancialNeedsMultiple.png' '' %}
+
+If we look at the most popular answers, we can see that there is a need for direct monetary support, either through “grants” or “discounted borrowing”. Relatively fewer respondents seem worried about support that could potentially help with their existing debt, things like interest rate reductions or loan period extensions.
+
+### WHERE DOES THE NEED FOR MONETARY SUPPORT COME FROM? 
+
+65% of our respondents report having no employment at present [add key statistics table]. Among the remaining 35% who managed to find work, nearly two-thirds report having to work at reduced incomes. The pandemic, as we can expect, has had a severe toll on the income of the Nepali tourism workforce.
+
+At the same time, 90% of our respondents report losing at least three quarters of their savings during the pandemic.
+
+{% maincolumn 'assets/img/charts/SavingsChangeDist.png' '' %}
+
+Unsurprisingly, and rather unfortunately, the immediate concerns of the workforce therefore reflects this stark reality, and paints a grim picture of what the future holds for the tourism workforce. Chart below shows responses for another multiple-selection question. This time, respondents were asked about the kind of challenges they are likely to face in the next six months.
+
+{% maincolumn 'assets/img/charts/WrkerBiggestChallengesMultiple.png' '<b>Which of the following are some challenges in the recovery of your tourism sector?</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
+
+It’s worth noting that the top five choices to do with making payments. It’s rather disconcerting learning that not being able to afford a roof to live in, or buying food to survive fall among the top three concerns. 
+
+**The financial capital of Nepal’s tourism workers is rapidly depleting.** With reduced savings, few options for borrowing, and increasing debt, the situation of individuals, many of whom have devoted almost their entire lives to tourism, hangs in the balance.
+
+
+### WHAT MEASURES CAN BE TAKEN?
+
+Even though the government has made provisions for tourism workers to borrow money through financial institutions, our survey reveals that such a practice hasn’t been fully adopted by the workforce. As the chart below show, a lot of borrowing still happens informally through friends and family. 
+
+{% maincolumn 'assets/img/charts/BorrowingSplit.png' '' %}
+
+Our in-person interviews with tourism sector revealed that workers in the tourism sector shy away from borrowing though financial institutions. The reason being that they lack sufficient property, real-estate, or other assets that can be provided as collateral. 
+
+It appears that despite having the best intentions, past efforts of encouraging borrowing through financial institutions do not seem to working as expected. 
