@@ -5,31 +5,10 @@ date:   2020-04-13 09:46:04
 categories: jekyll css
 ---
 
-The World Health Organization (WHO) declared COVID-19 spread as a pandemic on 11 March, 2020. The pandemic has taken lives of millions around the globe and has severely crippled the health infrastructures globally. The impact of COVID-19 is so great that there is a tremendous second-order impact the pandemic has had.
+For the last seven months, Kathmandu Living Labs has been working to document the effects of the COVID-19 pandemic, as felt by tourism industry in Nepal.
 
-This study is a part of C2M2-Kathmandu (COVID Cities’ Mitigation Mapping – Kathmandu) project. It is intended to help revive livelihood of workers and business owners working in the tourism industry. Over the course of the last seven months, [Kathmandu Living Labs](http://kathmandulivinglabs.org) has been working closely with diverse stakeholders from Nepal’s tourism industry to understand the plight of those affected from the COVID pandemic.
+We met with individuals working in tourism, individuals who own or used to own tourism-related businesses, and individuals working for the sector’s recovery in some capacity (government officials, etc.). We listened to them, and gathered information around their lived experience, through informal interviews, through focused group discussions, and through surveys. When doing this, we focused on the economic and psychosocial impacts that the pandemic has had on them. We also tried to capture their needs for the next few months, in the hope that this information would be useful for future decisions made for the industry.
 
-It presents latest data from the field, and explores data-driven narratives that help these stakeholders understand and communicate the present impact, preparedness, and needs of the people in the tourism sector.
+Through this report, we want to share some intermediate findings and recommendations, based on the data we received through interviews, and through our ongoing surveys targeted at tourism workforce and tourism businesses. These surveys, for which data collection started in the month of April 2021, have so far been filled by 206 individuals working in the tourism sector, and 106 individuals who own or manage the operations of different tourism businesses in and around the capital city of Kathmandu.
 
-
-
-### What we did
-#### Workforce survey 
-
-The workforce survey was designed and rolled to assess the impact of the COVID-19 among the workers in the tourism industry. We collaborated with [mention stakeholders] in administering this survey. In total, … workers participated in the study. The survey questionnaire could be accessed here. 
-
-#### Businesses survey 
-The business survey was administered the impact of COVID-19 among the business owners in the tourism industry. We partnered with [mention stakeholders] to design and roll out the survey. In total, … business owners participated in the study. The survey questionnaire could be accessed here. 
-
-#### In-person interviews 
-
-### Who we are
-
-#### C2M2-Kathmandu and its objectives 
-
-The Cities’ COVID-19 Mitigation Mapping (C2M2)- Kathmandu is a joint initiative of Kathmandu Living Labs, American Association of Geographers, and Map Give- an initiative of the US Department of State. KLL is the Asia Hub for C2M2 Asia. The other two countries participating in the project are Bangladesh and Mongolia. 
-
-
-#### C2M2 and its objectives 
-
-The C2M2 project aims to map the second-order impact of COVID across 12 cities in 3 continents across the globe. The goal of the project is to increase capacity to assess and understand the gaps in resources available to the marginalized and vulnerable urban communities. The key themes for the initiative are: food security, informal economy, tourism, health, and mobility to address second-order impacts of COVID-19.
+Analysing the data we recieved so far, we think that the information gathered can already provide useful direction to lobbyists, decision-makers, and well-wishers of the tourism industry, as they take next steps to mitigate the effects, and support the recovery of a very important sector in Nepal.

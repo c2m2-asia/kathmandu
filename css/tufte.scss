@@ -127,6 +127,7 @@ h3 {
      margin-bottom: 0;
      line-height: 1.08888888888889; 
      font-family: $sans-font;
+     max-width: 400px;
     }
 
 h4 { 
@@ -291,7 +292,7 @@ img { max-width: 100%; }
 
 .sidenote, .marginnote { float: right;
                          clear: right;
-                         margin-right: -60%;
+                         margin-right: -70%;
                          width: 50%;
                          margin-top: 0;
                          margin-bottom: 1.96rem;
@@ -700,7 +701,7 @@ hr.slender {
 }
 
 .post > figure{
-  margin-top: 3rem;
+  margin-top: 1.5rem;
   margin-bottom: 1.5rem;
 }
 
@@ -712,23 +713,6 @@ figcaption, figure.fullwidth figcaption {
 
 }
 
-@media screen and (max-width: 760px) {
-
-  figcaption, figure.fullwidth figcaption {
-    margin-right: 30%;
-    max-width: none;
-    text-align: right;
-
-  }
-
-  figcaption.maincolumn-figure, figure.fullwidth figcaption {
-    float: none;
-    text-align: left;
-    margin-bottom: 3rem;
-  }
-
-
-}
 
 
 ul.footer-links, .credits{
@@ -763,6 +747,7 @@ ul.footer-links, .credits{
   // text-transform: uppercase; 
   // letter-spacing: 3px; 
   font-weight: 700; 
+  margin-top: 2rem;
   // margin:0; 
   // max-width: 70vw; 
   // line-height: 2rem; 
@@ -803,4 +788,47 @@ a:hover {
   font-weight: 500;
   font-size: 2.5rem;
   line-height: 1.2;
+}
+
+.custom-article-header {
+  margin-top: 3px;
+  margin-bottom: 5px; 
+  line-height: 1.3; 
+  font-weight: 500;
+  max-width: 45vw;
+  font-family:'Playfair Display';
+  font-style: italic;
+}
+
+@media screen and (max-width: 760px) {
+
+  figcaption, figure.fullwidth figcaption {
+    margin-right: 30%;
+    max-width: none;
+    text-align: right;
+    
+  }
+
+  figcaption.maincolumn-figure, figure.fullwidth figcaption {
+    float: none;
+    text-align: left;
+    margin-bottom: 3rem;
+  }
+
+  .custom-article-header {
+    max-width: unset;
+  }
+
+}
+
+.credits  {
+  font-family: $sans-font;
+  font-size: 1rem;
+  // font-style: italic;
+
+}
+
+.credits  p{
+  font-size: 1rem;
+  line-height: 1.4
 }
