@@ -22,7 +22,7 @@ At the same time, 90% of our respondents report losing at least three quarters o
 
 {% maincolumn 'assets/img/charts/SavingsChangeDist.png' '' %}
 
-As a result, what our survey reveals about immediate concerns of the individuals working in Nepali tourism industry paints a grim picture of what the future holds for the tourism workforce{% sidenote 'Two' '' '' %}. Chart below shows responses for another multiple-selection question. This time, respondents were asked about the kind of challenges they are likely to face in the next six months.
+Unsurprisingly, what our survey reveals about immediate concerns of the individuals working in Nepali tourism industry paints a grim picture of what the future holds for them{% sidenote 'Two' '' '' %}. Chart below shows responses for another multiple-selection question. This time, respondents were asked about the kind of challenges they are likely to face in the next six months.
 
 {% maincolumn 'assets/img/charts/NextSixMonthsChallengesMultiples.png' '<b>Which of the following are some challenges you are likely to face in the next 6 months?</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
 
@@ -40,6 +40,6 @@ Even though the government has made provisions for tourism workers to borrow mon
 
 {% maincolumn 'assets/img/charts/BorrowingSplit.png' '' %}
 
-Our in-person interviews with tourism sector revealed that workers in the tourism sector shy away from borrowing though financial institutions. The reason being that they lack sufficient property, real-estate, or other assets that can be provided as collateral. 
+Our in-person interviews with tourism sector revealed that workers shy away from borrowing though financial institutions because they lack sufficient property, real-estate, or other assets that can be provided as collateral. 
 
-It appears that despite having the best intentions, past efforts of encouraging borrowing through financial institutions do not seem to be working as expected. This represents an opportunity for further work, as finding ways to increase financial access can be crucial in supporting the revival and recovery of the thousands of people working in Nepal's tourism sector.
+It appears that despite having the best intentions, past efforts of encouraging borrowing through financial institutions do not seem to be working as expected. This represents an opportunity for further work, as finding ways to increase financial access can be crucial- in supporting the revival and recovery of the thousands of people working in Nepal's tourism sector.
