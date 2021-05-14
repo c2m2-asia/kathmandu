@@ -398,7 +398,7 @@ ul.footer-links, .credits { color: rgba(20, 20, 20, 0.4); text-align: left; marg
 
 .custom-nav-a { color: rgba(20, 20, 20, 0.7); font-weight: 700; margin-top: 2rem; }
 
-.custom-story-title { font-size: 1.9rem; color: rgba(0, 0, 0, 0.8); font-family: 'Playfair Display'; font-weight: 600; }
+.custom-story-title { font-size: 1.8rem; color: rgba(0, 0, 0, 0.8); font-family: 'Playfair Display'; font-weight: 600; }
 
 .custom-story-title:hover { color: #AC2020; transition: 0.4s ease-in; }
 
@@ -412,7 +412,7 @@ a:hover { color: unset; }
 
 @media screen and (max-width: 760px) { figcaption, figure.fullwidth figcaption { margin-right: 30%; max-width: none; text-align: right; } figcaption.maincolumn-figure, figure.fullwidth figcaption { float: none; text-align: left; margin-bottom: 3rem; } .custom-article-header { max-width: unset; } }
 
-.credits { font-family: "Roboto", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Roboto", Calibri, sans-serif; font-size: 1rem; }
+.credits { font-family: "Goudy Bookletter 1911", "Chronicle Text G2", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-size: 1rem; }
 
 .credits p { font-size: 1rem; line-height: 1.4; }
 
