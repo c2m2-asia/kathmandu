@@ -1,7 +1,7 @@
 ---
 layout: dive
 author: "Arogya Koirala, Sazal Sthapit, and Aishworya Shrestha"
-title: "One year into the pandemic, tourism workers are worried about their survival."
+title: "One year into the pandemic, tourism workers worried for their survival."
 date: 2021-05-09 09:42:04
 categories: jekyll css
 ---

@@ -171,7 +171,7 @@ h1 { font-weight: 400; margin-top: 1.568rem; margin-bottom: 1.568rem; font-size:
 
 h2 { font-weight: 400; letter-spacing: 0.08rem; margin-top: 1.866666666666667rem; margin-bottom: 0; font-size: 1.9rem; line-height: 0.933333333333333; }
 
-h3 { font-weight: 700; font-size: 1.1rem; letter-spacing: 0.08rem; color: #AC2020; text-transform: uppercase; margin-top: 2.1777777777777778rem; margin-bottom: 0; line-height: 1.08888888888889; font-family: "Roboto", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Roboto", Calibri, sans-serif; max-width: 400px; }
+h3 { font-weight: 700; font-size: 1.1rem; letter-spacing: 0.08rem; color: #AC2020; text-transform: uppercase; margin-top: 2.1777777777777778rem; margin-bottom: 0; line-height: 1.2; font-family: "Roboto", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Roboto", Calibri, sans-serif; max-width: 400px; }
 
 h4 { font-weight: 700; font-size: 0.9rem; letter-spacing: 0.08rem; color: #444; text-transform: uppercase; margin-top: 2.1777777777777778rem; margin-bottom: 0; line-height: 1.08888888888889; font-family: "Roboto", "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Roboto", Calibri, sans-serif; }
 
