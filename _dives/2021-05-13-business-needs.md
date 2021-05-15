@@ -1,6 +1,6 @@
 ---
 layout: dive
-author: "Sazal Sthapit, Asmod Karki, and Arogya Koirala"
+author: "Arogya Koirala, Sazal Sthapit, and Asmod Karki"
 title: "Pre-existing burdens making economic recovery difficult for tourism businesses."
 date: 2021-05-14 09:42:04
 categories: jekyll css
