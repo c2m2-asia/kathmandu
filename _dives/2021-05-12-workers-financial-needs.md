@@ -3,7 +3,7 @@ layout: dive
 survey: workforce
 author: "Arogya Koirala, Sazal Sthapit, and Aishworya Shrestha"
 title: "One year into the pandemic, tourism workers worried for their survival."
-date: 2021-05-09 09:42:04
+date: "2021-05-13"
 categories: jekyll css
 ---
 
@@ -19,7 +19,7 @@ If we look at the most popular answers, we can see that there is a need for dire
 
 65% of our respondents report having no employment at present. 95% have some form of debt. Among the remaining 35% who managed to find work, nearly two-thirds report having to work at reduced incomes{% sidenote 'One' 'Review workforce survey facts and figures here.' '' %}. The pandemic, as we can expect, has had a severe toll on the income of the Nepali tourism workforce.
 
-At the same time, more than 90% of our respondents report losing at least three quarters of their savings during the pandemic. Almsot one out every two workers reported having zero savings{%sidenote 'aaa' '' %}. 
+At the same time, more than 90% of our respondents report losing at least three quarters of their savings during the pandemic. Almost one out every two workers reported having zero savings. 
 
 {% maincolumn 'assets/img/charts/SavingsChangeDist.png' '' %}
 
@@ -29,8 +29,6 @@ Unsurprisingly, what our survey reveals about immediate concerns of the individu
 
 What is most disconcerting, is learning that not being able to afford a roof to live in, or buying food to survive is the grim reality in which most of our tourism workforce is currently living in.
 
-
-
 **The financial capital of Nepal’s tourism workers is rapidly depleting.** With reduced savings, few options for borrowing, and increasing debt, the situation of most our respondents, many of whom have devoted almost their entire lives to tourism, hangs in the balance.
 
 ### WHAT MEASURES CAN BE TAKEN?
@@ -38,8 +36,6 @@ What is most disconcerting, is learning that not being able to afford a roof to 
 This section lists some of our recommendations, based on our interpretation of survey results.
 
 #### MAKING BORROWING EASIER
-
-{% marginfigure 'rames' 'assets/img/people/ramesh_crop.jpg' '<br/> Ramesh, a tourism entrepreneur from Thamel, faced several financial hurdles trying to sustain his tourism business amidst the pandemic. <br/> <br/> <a href="/kathmandu-interim-report/stories/2021-05-12-ramesh">Read his full story here.</a>' %}
 
 Our in-person interviews revealed that workers shy away from borrowing though financial institutions because they lack sufficient property, real-estate, or other assets that can be provided as collateral.
 

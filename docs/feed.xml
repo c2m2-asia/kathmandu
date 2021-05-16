@@ -5,8 +5,8 @@
     <description></description>
     <link>/kathmandu/</link>
     <atom:link href="/kathmandu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 May 2021 05:24:53 -0400</pubDate>
-    <lastBuildDate>Sun, 16 May 2021 05:24:53 -0400</lastBuildDate>
+    <pubDate>Sun, 16 May 2021 12:02:12 -0400</pubDate>
+    <lastBuildDate>Sun, 16 May 2021 12:02:12 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -357,38 +357,44 @@ The following section gives a peek into the impacts of the COVID-19 on the touri
 
 &lt;figure&gt;&lt;img src=&quot;/kathmandu/assets/img/charts/StayedEmployedSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;h4 id=&quot;a-year-of-reduced-income&quot;&gt;A Year of reduced income&lt;/h4&gt;
-&lt;p&gt;63% of our workers who are presently employed have reported not seeing their earnings return to pre-pandemic levels for more than a year now (see graph below).&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#### A Year of reduced income
+63% of our workers who are presently employed have reported not seeing their earnings return to pre-pandemic levels for more than a year now (see graph below).
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu/assets/img/charts/LastDateFullSalaryDistPresentlyEmployed.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;Note: This chart contains responses from &lt;strong&gt;only those respondents who are presently employed&lt;/strong&gt;. &lt;br /&gt; &lt;br /&gt; To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-pandemic levels since &amp;#8220;Before March 2020&amp;#8221;&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;It appears the situation is going to get even more difficult with the second wave approaching.&lt;/p&gt;
+&amp;lt;figure&amp;gt;&amp;lt;img src='/kathmandu/assets/img/charts/LastDateFullSalaryDistPresentlyEmployed.png'/&amp;gt;&amp;lt;figcaption class='maincolumn-figure'&amp;gt;Note: This chart contains responses from &amp;lt;strong&amp;gt;only those respondents who are presently employed&amp;lt;/strong&amp;gt;. &amp;lt;br /&amp;gt; &amp;lt;br /&amp;gt; To be intepreted as: 63% of workers who are presently employed have not seen their salaries return to pre-pandemic levels since &amp;amp;#8220;Before March 2020&amp;amp;#8221;&amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt; 
+It appears the situation is going to get even more difficult with the second wave approaching.
 
-&lt;h3 id=&quot;dealing-with-the-financial-impact&quot;&gt;Dealing with the financial impact&lt;/h3&gt;
 
-&lt;p&gt;It’s clear many workers aren’t earning at the levels they previously used to. At this point, let’s try and understand the different financial strategies used by our respondents in dealing with this economic shock brought forth by the crisis.&lt;/p&gt;
+### Dealing with the financial impact
 
-&lt;h4 id=&quot;savings-reduced-to-near-zero&quot;&gt;SAVINGS: REDUCED to NEAR-zero&lt;/h4&gt;
+It's clear many workers aren't earning at the levels they previously used to. At this point, let's try and understand the different financial strategies used by our respondents in dealing with this economic shock brought forth by the crisis.
 
-&lt;p&gt;The indefinite nature of the pandemic has resulted in a situation where many workers (~ 90%) have seen their savings reduced to zero or near-zero levels. This is alarming, especially with the second-wave looming around the corner.&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu/assets/img/charts/SavingsChangeDist.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+#### SAVINGS: REDUCED to NEAR-zero
 
-&lt;h4 id=&quot;selling-assets-household-items-are-the-first-to-go&quot;&gt;SELLING ASSETS: Household items are the first to go&lt;/h4&gt;
+The indefinite nature of the pandemic has resulted in a situation where many workers (~ 90%) have seen their savings reduced to zero or near-zero levels. This is alarming, especially with the second-wave looming around the corner. 
 
-&lt;p&gt;Around one in every four respondents had to do away with some of their personal or household assets. Thankfully, only a few of our respondents have had to sell professional equipment (7%) or land and property (7%) so far.&lt;/p&gt;
+&amp;lt;figure&amp;gt;&amp;lt;img src='/kathmandu/assets/img/charts/SavingsChangeDist.png'/&amp;gt;&amp;lt;figcaption class='maincolumn-figure'&amp;gt;&amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu/assets/img/charts/SoldStuffMultiples.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;h4 id=&quot;borrowing-money-friends-and-family-to-the-rescue&quot;&gt;BORROWING MONEY: Friends and family to the rescue&lt;/h4&gt;
 
-&lt;p&gt;Our in-person interviews revealed that workers in the tourism sector shy away from borrowing though financial institutions. The reason is that they lack property, real-estate, or other assets that can be provided as collateral. And indeed, our survey results also seem to corroborate with this idea, with more than three-fifths (64%) of our srespondents admit to borrowing exclusively from friends and family.&lt;/p&gt;
+#### SELLING ASSETS: Household items are the first to go
 
-&lt;figure&gt;&lt;img src=&quot;/kathmandu/assets/img/charts/BorrowingSplit.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+Around one in every four respondents had to do away with some of their personal or household assets. Thankfully, only a few of our respondents have had to sell professional equipment (7%) or land and property (7%) so far.
 
-&lt;p&gt;The situation is worsened by the fact that at present, nearly all (93%) of our respondents report that they are in some form of debt.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&quot;/kathmandu/assets/img/charts/LoanExposure.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&amp;lt;figure&amp;gt;&amp;lt;img src='/kathmandu/assets/img/charts/SoldStuffMultiples.png'/&amp;gt;&amp;lt;figcaption class='maincolumn-figure'&amp;gt;&amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;
 
-&lt;p&gt;Unfortunately, being in debt – as our data shows – is a very real possibility in the “new normal”.&lt;/p&gt;
+
+#### BORROWING MONEY: Friends and family to the rescue
+
+Our in-person interviews revealed that workers in the tourism sector shy away from borrowing though financial institutions. The reason is that they lack property, real-estate, or other assets that can be provided as collateral. And indeed, our survey results also seem to corroborate with this idea, with more than three-fifths (64%) of our srespondents admit to borrowing exclusively from friends and family. 
+
+&amp;lt;figure&amp;gt;&amp;lt;img src='/kathmandu/assets/img/charts/BorrowingSplit.png'/&amp;gt;&amp;lt;figcaption class='maincolumn-figure'&amp;gt;&amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;
+
+The situation is worsened by the fact that at present, nearly all (93%) of our respondents report that they are in some form of debt.
+&amp;lt;figure&amp;gt;&amp;lt;img src='/kathmandu/assets/img/charts/LoanExposure.png'/&amp;gt;&amp;lt;figcaption class='maincolumn-figure'&amp;gt;&amp;lt;/figcaption&amp;gt;&amp;lt;/figure&amp;gt;
+
+Unfortunately, being in debt -- as our data shows -- is a very real possibility in the &quot;new normal&quot;.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;the-next-six-months&quot;&gt;the next six months&lt;/h3&gt;
 

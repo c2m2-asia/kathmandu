@@ -3,7 +3,7 @@ layout: dive
 survey: business
 author: "Arogya Koirala, Sazal Sthapit, and Asmod Karki"
 title: "Pre-existing burdens making economic recovery difficult for tourism businesses."
-date: 2021-05-14 09:42:04
+date: "2021-05-12"
 categories: jekyll css
 ---
 
@@ -41,7 +41,6 @@ As we can see, dwindling savings, near-zero revenues, and lack of customers have
 
 In fact, it could have already gotten much worse, given the fact that our survey was filled right before the second wave of COVID-19 hit Nepal.
 
-
 ### WHAT MEASURES CAN BE TAKEN?
 
 
@@ -76,15 +75,24 @@ The above chart gives some indication of what businesses’ would prefer. Howeve
 
 #### EASE BORROWING
 
-More than 1 in every 3 of our respondents report that they will have difficulty in acquiring loans over the next six months. Our in-person interviews with tourism entrepreneurs shed useful light into the economic hurdles faced by entrepreneurs struggling to keep their businesses afloat, for e.g., lack of necessary colatteral needed for borrowing through financial institutions, and exhaustion of informal sources of funding such as friends and family. (read more [here]("/kathmandu/stories/2021-05-12-ramesh")). 
+
+More than 1 in every 3 of our respondents report that they will have difficulty in acquiring loans over the next six months.  
+
+Our in-person interviews with tourism entrepreneurs revealed that issues such lack of necessary collateral needed by small and medium-sized enterprises was a major deterrent in borrowing through financial institutions (read more [here]("/kathmandu/stories/2021-05-12-ramesh")). And our data agrees as well. Refer to the chart below.
+
+{% maincolumn 'assets/img/charts/BizLoanActionsMultiples.png' '<b>Which of the following loan related impacts did your business have to face due to the pandemic?</b> <br/><br/> Respondents could select more than one answer for this question. Each pie chart represents the percentage of respondents that choose a given option.' %}
 
 {% marginfigure 'rames' 'assets/img/people/ramesh_crop.jpg' '<br/> Ramesh, a tourism entrepreneur from Thamel, faced several financial hurdles trying to sustain his tourism business amidst the pandemic. <br/> <br/> <a href="/kathmandu/stories/2021-05-12-ramesh">Read his full story here.</a>' %}
 
-There is a real need for making borrowing easier for small and medium-sized tourism businesses. Financial assistance from the government, easing of regulatory burdens, and smoother processes to borrow cash from banks and financial institutions (BFIs) can go a long way in helping support tourism businesses most in need. Similarly, the policymakers should also consider making it easier for businesses to economically recover through consolidations, mergers, and acquisitions.
+As we can see, only a small number of businesses could acquire loans with ease, with a big percentage finding the process difficult, or worse, not even able to get the financial assistance they need to keep their businesses alive.  
 
-Our survey gives some sense of the kind of borrowing support sought by these businesses. When we asked the 32 respondents who see “acquiring funds” as a concern about the kind of borrowing incentives they would prefer, here’s what they said:
+There is a real need for making borrowing easier for small and medium-sized tourism businesses. Financial assistance from the government, easing of regulatory burdens, and smoother processes to borrow cash from banks and financial institutions (BFIs) can go a long way in helping support tourism businesses most in need. Similarly, policymakers should also consider making it easier for businesses to economically recover through consolidations, mergers, and acquisitions.
 
-{% maincolumn 'assets/img/charts/MostHelpfulFundsAssistanceDist.png' '' %}
+<!-- In an effort to understand the kind of borrowing support sought by these businesses, we asked the 32 respondents who saw “acquiring funds” as a concern about the kind of borrowing incentives they would prefer. Here’s what they said:
+
+{% maincolumn 'assets/img/charts/MostHelpfulFundsAssistanceDist.png' '' %} -->
+
+
 
 #### ESTABLISH TOURISM PROTECTION FUNDS
 
