@@ -17,7 +17,7 @@ Analysing the data we recieved so far, we think that the information gathered ca
 
 #### ACKNOWLEDGMENTS
 
-A lot of people have helped us in our effort. We are very grateful to Mr. Dipak Raj Joshi ormer CEO of Nepal Tourism Board and presently the member of World Tourism Council. As an advisor to this project, he helped us navigate the tourism landscape and guided this project's course, introducing and connecting us to some key individuals and groups in Nepal’s tourism industry.
+A lot of people have helped us in our effort. We are very grateful to Mr. Deepak Raj Joshi, former CEO of Nepal Tourism Board and presently the member of World Tourism Council. As an advisor to this project, he helped us navigate the tourism landscape and guided this project's course, introducing and connecting us to some key individuals and groups in Nepal’s tourism industry.
 
 We also thank Nepal Association of Travel Agents (NATA), Trekking Agency Associations of Nepal (TAAN), Restaurant and Bar Association Nepal (REBAN), Hotel Association of Nepal (HAN) for their support in designing this survey. We'd like to extend our special thanks to Tekendra Mahat (COO of HAN), Suman Parajuli (President of UNITRAV) and Kapil Kafle (President of JOTTUF) for their support in helping us reach out to the nearly 300 members of tourism businesses and workforce.
 
