@@ -1,5 +1,6 @@
 ---
 layout: dive
+survey: business
 author: "Arogya Koirala, Sazal Sthapit, and Asmod Karki"
 title: "Pre-existing burdens making economic recovery difficult for tourism businesses."
 date: 2021-05-14 09:42:04
@@ -18,7 +19,7 @@ According to our survey respondents, the pandemic has indeed been disproportiona
 
 {% maincolumn 'assets/img/tables/ClosedBusinesses.png' "" %}
 
-With the country being closed to tourists for more than a year{%sidenote 'himal-article' 'Link to an article by Himal'%}, small to medium-sized businesses{%sidenote 'mostly_small_med_biz' 'Most of the respondents in our survey were small and medium-sized businesses' %} (based on staff size) operating in the travel or accommodation segment were among the worst hit. 
+With the country being closed to tourists for more than a year{%sidenote 'himal-article' '<a href="https://www.himalmag.com/silent-squares-kathmandu-photo-essay-2020/" target = "_blank"> Silent squares </a>, Giacomo D’orlando, Himal Southasian, April 2020 '%}, small to medium-sized businesses{%sidenote 'mostly_small_med_biz' 'Most of the respondents in our survey were small and medium-sized businesses' %} (based on staff size) operating in the travel or accommodation segment were among the worst hit. 
 
 What’s worse is the fact that 66% (nearly 2 out of every 3) businesses that closed had been in operation for at last 6 years or more. They had survived the 2015 earthquake, even the economic blockade that followed. They couldn’t, however, survive the pandemic.
 
