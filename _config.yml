@@ -20,6 +20,8 @@ collections:
     output: true
   dives:
     output: true
+  analyses:
+    output: true
 page:
   template: _page.txt
   extension: md

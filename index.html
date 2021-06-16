@@ -117,3 +117,25 @@ title: Home
   </div>
 
 </div>
+
+
+
+<h3 class="mb-2">ANALYSES</h3>
+
+<div class="row">
+  <div class="col-md-8">
+    <div class="row">
+      {% for post in site.analyses %}
+      <div class="col-md-9 mb-5">
+
+        <a class="custom-story-title" href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title }}
+        </a>
+        <p class="custom-story-desc">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+
+</div>
