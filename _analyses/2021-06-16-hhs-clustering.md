@@ -249,6 +249,31 @@ A few observations:
 2. Businesses falling to **Cluster 3** and **Cluster 4** don't seem to be far away from their *Cluster 5* counterparts, having done only the bare minimum needed for ensuring HHS safety, either through the use of hand sanitizers in business premises, or through employee traininbg on HHS best practices.
 4. The behaviour of businesses in **Cluster 2** is a bit unclear, while these businesses have sought to adopt more than one measure, it appears there is room to do more. Once again, reaching out to these businesses could provide an oppportunity for government and non-government stakeholders to learn about the different challenges and hurdles surrounding HHS measures adoption in tourism businesses.
 
+Given these observations, we can observe three distinctive patterns for health, hygiene and sanitation practices emerging from our data. There is a group of businesses that have made little to no effort in adopting HHS measures follwoing the pandemic (clusters 3, 4,5). Then there is a group of responsible bunisesses, where many have adopted more than one HHS measures in response to the pandemic. Finally there is the _in-between_ group (cluster 2). Let's go ahead and regroup our clusters based on this pattern.
+
+```
+data$sub_grp <- ifelse(data$sub_grp == 4, 3, ifelse(data$sub_grp==5, 3, data$sub_grp))
+cluster_profiles <- data %>% 
+  group_by(sub_grp) %>%
+  summarise(
+    count = n(),
+    sntzrs=round(sum(as.numeric(as.character(sntzrs)))/n()*100, 2),
+    empl_trained=round(sum(as.numeric(as.character(empl_trained)))/n()*100, 2),
+    thrml_scrn=round(sum(as.numeric(as.character(thrml_scrn)))/n()*100, 2),
+    soc_dist=round(sum(as.numeric(as.character(soc_dist)))/n()*100, 2),
+    cshless=round(sum(as.numeric(as.character(cshless)))/n()*100, 2),
+    nobufft=round(sum(as.numeric(as.character(nobufft)))/n()*100, 2),
+    c19mrktg=round(sum(as.numeric(as.character(c19mrktg)))/n()*100, 2),
+    outsrc=round(sum(as.numeric(as.character(outsrc)))/n()*100, 2),
+    othr=round(sum(as.numeric(as.character(othr)))/n()*100, 2),
+    none=round(sum(as.numeric(as.character(none)))/n()*100, 2)
+)
+
+knitr::kable(cluster_profiles)
+```
+
+{% fullwidth 'assets/img/hhs_clustering/09.png' '' %}
+
 
 At the same time, we also want to look at the distribution of businesses by type at the cluster level, as this could help reveal potential red flags. For example, a hotel business -- where there is a relatively higer probability of person-to-person contact - falling into clusters 3, 4 or 5 would be a more serious issue than a travel and tour operator falling into these clusters. So let's go ahead a visualize this information as well.
 
@@ -290,6 +315,38 @@ ggplot(
 And indeed, 7 out of 25 businesses that fall in Clusers 3, 4 or 5 are hotels and restaurants. These businesses should be contacted immediately and provided with necessary assistance so that they can ensure better HHS measures for their customers.
 
 
+Similarly, let’s also look at the distribution of businesses by number of employees at the cluster level.
+
+```
+ggplot(
+  data,
+  aes(x=factor(n_employees))
+  ) +
+  geom_bar(
+  stat="count",
+  width=0.7,
+  fill="#c3092b") +
+  geom_text(
+    stat='count', 
+    aes(label=..count..), 
+    vjust=-1
+  ) +  
+  facet_grid(sub_grp ~ .) +
+  scale_x_discrete(
+  breaks=1:5,
+  labels=c(
+    "Less than 10",
+    "11 to 30",
+    "31 to 50",
+    "51 to 100",
+    "More than 100"
+    )
+  ) +
+  theme_linedraw()
+```
+
+{% fullwidth 'assets/img/hhs_clustering/10.png' '' %}
+
 #### Spatially visualizing businesses by cluster type
 
 Could HHS measure adoption be linked with where businesses are located? A map based visualization can help answer this question. 
@@ -305,7 +362,7 @@ data$lng <- as.numeric(
 # coordinates, so lets exclude them
 onlyLatLng <- data[!is.na(data$lat), ]
 onlyLatLng <- data[!is.na(data$lng), ]
-colors <- c("#1a9641ff", "#a6d96aff", "#ffffbfff", "#fdae61ff","#d7191cff")
+colors <- c("#1b9e77ff", "#d95f02ff", "#7570b3ff")
 factpal <- colorFactor(colors, onlyLatLng$sub_grp)
 leaflet(data = onlyLatLng, width = "75%") %>%
   addProviderTiles(providers$CartoDB.Positron) %>%
@@ -326,3 +383,19 @@ leaflet(data = onlyLatLng, width = "75%") %>%
 ```
 
 <iframe width="100%" height="520" frameborder="0" src="https://arogyakoirala.carto.com/builder/95464c0b-b6d9-443a-9fa7-62c2f026e2b4/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
+Businesses outside the valley appear to be doing better w.r.t HHS measures adoption. Most of the businesses who responded from the cities of Pokhara and Chitwan fall under Clusters 1 or 2. At this point, we can't say if this is because buinesses these cities adopted HHS practices later (after learning from Kathmandu), because the domain they operate in require stricter HHS practices (most are hotels and restaurants), or because adopting HHS practices was more feasible. Further analysis can help us understand this phenomenon better.
+
+Businesses in Thamel can learn from each other. There is a good mix of safe (cluster 1) and bare-minimum (cluster 3, 4) hotels in Thamel (zoom the map to the most densely populated region). This represent an opportunity for tourism stakeholders in Thamel to collaborate with safe businesses in training hotels with HHS measure adoption.   
+
+
+
+
+#### REFERENCES
+1. Hierarchical Clustering Analysis, [https://uc-r.github.io/hc_clustering](https://uc-r.github.io/hc_clustering)
+2. User Similarity with Binary Data in Python, [https://towardsdatascience.com/user-similarity-with-binary-data-in-python-d15940a702fc](https://towardsdatascience.com/user-similarity-with-binary-data-in-python-d15940a702fc)
+3. Lex et. al, UpSet: Visualization of Intersecting Sets, IEEE Transactions on Visualization and Computer Graphics, 2014 [https://sci.utah.edu/~vdl/papers/2014_infovis_upset.pdf](https://sci.utah.edu/~vdl/papers/2014_infovis_upset.pdf)
+
+
+
